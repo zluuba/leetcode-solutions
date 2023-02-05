@@ -4,6 +4,8 @@
 # An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase,
 # typically using all the original letters exactly once.
 
+# --------------- Runtime 3976 ms, beats 13.65%. Memory 15.2MB, beats 27% ---------------
+
 
 class Solution:
     def get_dict(self, string):

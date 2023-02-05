@@ -7,7 +7,8 @@
 #
 # Return the matrix after sorting it.
 
-# --------------- Runtime 469 ms, beats 72.58%. Memory 19.9MB, beats 96.61%
+# --------------- Runtime 469 ms, beats 72.58%. Memory 19.9MB, beats 96.61% ---------------
+
 
 class Solution:
     def sortTheStudents(self, score: list[list[int]], k: int) -> list[list[int]]:

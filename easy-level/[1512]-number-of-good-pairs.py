@@ -2,6 +2,8 @@
 #
 # A pair (i, j) is called good if nums[i] == nums[j] and i < j.
 
+# --------------- Runtime 38 ms, beats 57.67%. Memory 13.8MB, beats 48.73% ---------------
+
 
 class Solution:
     def numIdenticalPairs(self, nums: list[int]) -> int:
