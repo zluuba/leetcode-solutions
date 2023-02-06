@@ -15,7 +15,7 @@ class Solution:
         return int(max(set(n)))
 
 
-# Alternative solution. Shows the solution algorithm.
+# Alternative solution. Shows the algorithm.
 # --------------- Runtime 8049 ms, beats 5.5%. Memory 17.2MB, beats 9.13% ---------------
 
 
