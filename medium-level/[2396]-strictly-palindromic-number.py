@@ -7,6 +7,7 @@
 
 # --------------- Runtime 31 ms, beats 73.82%. Memory 14MB, beats 9.52% ---------------
 
+
 class Solution:
     def isStrictlyPalindromic(self, n: int) -> bool:
         for base in range(2, n - 1):
@@ -23,6 +24,7 @@ class Solution:
 
 # Alternative solution. Use numpy lib
 # --------------- Runtime 78 ms, beats 5.7%. Memory 31.8MB, beats 9.52% ---------------
+
 
 from numpy import base_repr
 
