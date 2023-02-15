@@ -22,6 +22,7 @@
 + [771. Jewels and Stones](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B771%5D-jewels-and-stones.py)
 + [876. Middle of the Linked List](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B876%5D-middle-of-the-linked-list.py)
 + [905. Sort Array By Parity](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B905%5D-sort-array-by-parity.py)
++ [953. Verifying an Alien Dictionary](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B953%5D-verifying-an-alien-dictionary.py)
 + [989. Add to Array-Form of Integer](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B989%5D-add-to-array-form-of-integer.py)
 + [1108. Defanging an IP Address](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1108%5D-defanging-an-ip-address.py)
 + [1221. Split a String in Balanced Strings](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1221%5D-split-a-string-in-balanced-strings.py)
