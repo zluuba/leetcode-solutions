@@ -3,7 +3,7 @@
 
 <br>
 
-##### Easy
+### Easy
 + [1. Two Sum](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1%5D-two-sum.py)
 + [9. Palindrome Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B9%5D-palindrome-number.py)
 + [13. Roman to Integer](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B13%5D-roman-to-integer.py)
@@ -50,7 +50,7 @@
 + [2520. Count the Digits That Divide a Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2520%5D-count-the-digits-that-divide-a-number.py)
 + [2535. Difference Between Element Sum and Digit Sum of an Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2535%5D-difference-between-element-sum-and-digit-sum-of-an-array.py)
 
-##### Medium
+### Medium
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
 + [55. Jump Game](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B55%5D-jump-game.py)
 + [438. Find All Anagrams in a String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B438%5D-find-all-anagrams-in-a-string.py)
@@ -60,10 +60,10 @@
 + [2396. Strictly Palindromic Number](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2396%5D-strictly-palindromic-number.py)
 + [2545. Sort the Students by Their Kth Score](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2545%5D-sort-the-students-by-their-kth-score.py)
 
-##### Hard
+### Hard
 + [2306. Naming a Company](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2306%5D-naming-a-company.py)
 
-##### SQL Section
+### SQL Section
 + [1693. Daily Leads and Partners](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1693%5D-daily-leads-and-partners.sql)
 + [1741. Find Total Time Spent by Each Employee](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1741%5D-find-total-time-spent-by-each-employee.sql)
 + [1757. Recyclable and Low Fat Products](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1757%5D-recyclable-and-low-fat-products.sql)
