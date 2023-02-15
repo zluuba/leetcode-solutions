@@ -1,5 +1,5 @@
 ## LeetCode solutions
-Easy | Medium | Hard | SQL
+[Easy](https://github.com/zluuba/leetcode#easy) | [Medium](https://github.com/zluuba/leetcode#medium) | [Hard](https://github.com/zluuba/leetcode#hard) | [SQL](https://github.com/zluuba/leetcode#sql-section)
 
 <br>
 
