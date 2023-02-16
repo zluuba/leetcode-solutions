@@ -13,6 +13,7 @@
 + [26. Remove Duplicates from Sorted Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B26%5D-remove-duplicates-from-sorted-array.py)
 + [67. Add Binary](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B67%5D-add-binary.py)
 + [88. Merge Sorted Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B88%5D-merge-sorted-array.py)
++ [104. Maximum Depth of Binary Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B104%5D-maximum-depth-of-binary-tree.py)
 + [136. Single Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B136%5D-single-number.py)
 + [205. Isomorphic Strings](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B205%5D-isomorphic-strings.py)
 + [383. Ransom Note](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B383%5D-ransom-note.py)
