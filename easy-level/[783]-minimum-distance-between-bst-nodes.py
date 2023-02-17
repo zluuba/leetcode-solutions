@@ -1,7 +1,7 @@
 # Given the root of a Binary Search Tree (BST),
 # return the minimum difference between the values of any two different nodes in the tree.
 
-# --------------- Runtime 39 ms, beats 35.31%. Memory 13.8MB, beats 74.83% ---------------
+# --------------- Runtime 30 ms, beats 85.90%. Memory 14MB, beats 32.63% ---------------
 
 
 # Definition for a binary tree node.
@@ -21,9 +21,9 @@ class Solution:
                 stack.append(node.right)
                 nums.append(node.val)
 
-        sort_nums = sorted(nums)
-        result = max(sort_nums)
-        for ind, num in enumerate(sort_nums[:-1]):
-            result = min(sort_nums[ind + 1] - num, result)
+        nums.sort()
+        result = max(nums)
+        for ind, num in enumerate(nums[:-1]):
+            result = min(nums[ind + 1] - num, result)
 
         return result
