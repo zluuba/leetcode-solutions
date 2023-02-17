@@ -26,6 +26,7 @@
 + [412. Fizz Buzz](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B412%5D-fizz-buzz.py)
 + [724. Find Pivot Index](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B724%5D-find-pivot-index.py)
 + [771. Jewels and Stones](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B771%5D-jewels-and-stones.py)
++ [783. Minimum Distance Between BST Nodes](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B783%5D-minimum-distance-between-bst-nodes.py)
 + [876. Middle of the Linked List](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B876%5D-middle-of-the-linked-list.py)
 + [905. Sort Array By Parity](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B905%5D-sort-array-by-parity.py)
 + [953. Verifying an Alien Dictionary](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B953%5D-verifying-an-alien-dictionary.py)
