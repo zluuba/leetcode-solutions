@@ -2,7 +2,7 @@
 #
 # If there are two middle nodes, return the second middle node.
 
-# --------------- Runtime 42 ms, beats 23.52%. Memory 13.8MB, beats 48.13% ---------------
+# --------------- Runtime 35 ms, beats 49.62%. Memory 13.8MB, beats 93.85% ---------------
 
 
 # Definition for singly-linked list.
@@ -16,5 +16,6 @@ class Solution:
         while head != None:
             array.append(head)
             head = head.next
+
         middle = len(array) // 2
         return array[middle]
