@@ -75,6 +75,7 @@
 + [2306. Naming a Company](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2306%5D-naming-a-company.py)
 
 ### SQL Section
++ [182. Duplicate Emails](https://github.com/zluuba/leetcode/blob/main/SQL/%5B182%5D-duplicate-emails.sql)
 + [1693. Daily Leads and Partners](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1693%5D-daily-leads-and-partners.sql)
 + [1741. Find Total Time Spent by Each Employee](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1741%5D-find-total-time-spent-by-each-employee.sql)
 + [1757. Recyclable and Low Fat Products](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1757%5D-recyclable-and-low-fat-products.sql)
