@@ -21,6 +21,7 @@
 + [136. Single Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B136%5D-single-number.py)
 + [205. Isomorphic Strings](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B205%5D-isomorphic-strings.py)
 + [206. Reverse Linked List](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B206%5D-reverse-linked-list.py)
++ [226. Invert Binary Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B226%5D-invert-binary-tree.py)
 + [383. Ransom Note](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B383%5D-ransom-note.py)
 + [392. Is Subsequence](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B392%5D-is-subsequence.py)
 + [412. Fizz Buzz](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B412%5D-fizz-buzz.py)
