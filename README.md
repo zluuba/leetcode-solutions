@@ -62,6 +62,8 @@
 ### Medium
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
 + [55. Jump Game](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B55%5D-jump-game.py)
++ [142. Linked List Cycle II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B142%5D-linked-list-cycle-ii.py)
++ [287. Find the Duplicate Number](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B287%5D-find-the-duplicate-number.py)
 + [438. Find All Anagrams in a String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B438%5D-find-all-anagrams-in-a-string.py)
 + [567. Permutation in String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B567%5D-permutation-in-string.py)
 + [904. Fruit Into Baskets](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B904%5D-fruit-into-baskets.py)
