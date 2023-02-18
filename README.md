@@ -16,6 +16,8 @@
 + [58. Length of Last Word](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B58%5D-length-of-last-word.py)
 + [66. Plus One](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B66%5D-plus-one.py)
 + [67. Add Binary](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B67%5D-add-binary.py)
++ [69. Sqrt(x)](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B69%5D-sqrt(x).py)
++ [70. Climbing Stairs](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B70%5D-climbing-stairs.py)
 + [88. Merge Sorted Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B88%5D-merge-sorted-array.py)
 + [104. Maximum Depth of Binary Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B104%5D-maximum-depth-of-binary-tree.py)
 + [136. Single Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B136%5D-single-number.py)
