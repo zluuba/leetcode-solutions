@@ -18,5 +18,6 @@
 
 
 SELECT emp.name as Employee
-FROM Employee mngr JOIN Employee emp ON mngr.id = emp.managerID
+FROM Employee AS mngr
+INNER JOIN Employee AS emp ON mngr.id = emp.managerID
 WHERE emp.salary > mngr.salary;
