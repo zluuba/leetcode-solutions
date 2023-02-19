@@ -20,12 +20,14 @@
 + [70. Climbing Stairs](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B70%5D-climbing-stairs.py)
 + [88. Merge Sorted Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B88%5D-merge-sorted-array.py)
 + [104. Maximum Depth of Binary Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B104%5D-maximum-depth-of-binary-tree.py)
++ [121. Best Time to Buy and Sell Stock](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B121%5D-best-time-to-buy-and-sell-stock.py)
 + [136. Single Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B136%5D-single-number.py)
 + [205. Isomorphic Strings](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B205%5D-isomorphic-strings.py)
 + [206. Reverse Linked List](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B206%5D-reverse-linked-list.py)
 + [226. Invert Binary Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B226%5D-invert-binary-tree.py)
 + [383. Ransom Note](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B383%5D-ransom-note.py)
 + [392. Is Subsequence](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B392%5D-is-subsequence.py)
++ [409. Longest Palindrome](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B409%5D-longest-palindrome.py)
 + [412. Fizz Buzz](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B412%5D-fizz-buzz.py)
 + [724. Find Pivot Index](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B724%5D-find-pivot-index.py)
 + [771. Jewels and Stones](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B771%5D-jewels-and-stones.py)
@@ -77,6 +79,7 @@
 + [2306. Naming a Company](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2306%5D-naming-a-company.py)
 
 ### SQL Section
++ [175. Combine Two Tables](https://github.com/zluuba/leetcode/blob/main/SQL/%5B175%5D-combine-two-tables.sql)
 + [182. Duplicate Emails](https://github.com/zluuba/leetcode/blob/main/SQL/%5B182%5D-duplicate-emails.sql)
 + [1693. Daily Leads and Partners](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1693%5D-daily-leads-and-partners.sql)
 + [1741. Find Total Time Spent by Each Employee](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1741%5D-find-total-time-spent-by-each-employee.sql)
