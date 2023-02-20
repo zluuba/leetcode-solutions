@@ -29,6 +29,7 @@
 + [392. Is Subsequence](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B392%5D-is-subsequence.py)
 + [409. Longest Palindrome](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B409%5D-longest-palindrome.py)
 + [412. Fizz Buzz](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B412%5D-fizz-buzz.py)
++ [589. N-ary Tree Preorder Traversal](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B589%5D-n-ary-tree-preorder-traversal.py)
 + [724. Find Pivot Index](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B724%5D-find-pivot-index.py)
 + [771. Jewels and Stones](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B771%5D-jewels-and-stones.py)
 + [783. Minimum Distance Between BST Nodes](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B783%5D-minimum-distance-between-bst-nodes.py)
@@ -66,6 +67,7 @@
 ### Medium
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
 + [55. Jump Game](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B55%5D-jump-game.py)
++ [102. Binary Tree Level Order Traversal](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B102%5D-binary-tree-level-order-traversal.py)
 + [142. Linked List Cycle II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B142%5D-linked-list-cycle-ii.py)
 + [287. Find the Duplicate Number](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B287%5D-find-the-duplicate-number.py)
 + [438. Find All Anagrams in a String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B438%5D-find-all-anagrams-in-a-string.py)
