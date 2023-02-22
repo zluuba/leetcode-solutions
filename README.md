@@ -69,8 +69,10 @@
 ### Medium
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
 + [55. Jump Game](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B55%5D-jump-game.py)
++ [98. Validate Binary Search Tree](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B98%5D-validate-binary-search-tree.py)
 + [102. Binary Tree Level Order Traversal](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B102%5D-binary-tree-level-order-traversal.py)
 + [142. Linked List Cycle II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B142%5D-linked-list-cycle-ii.py)
++ [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B235%5D-lowest-common-ancestor-of-a-binary-search-tree.py)
 + [287. Find the Duplicate Number](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B287%5D-find-the-duplicate-number.py)
 + [438. Find All Anagrams in a String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B438%5D-find-all-anagrams-in-a-string.py)
 + [540. Single Element in a Sorted Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B540%5D-single-element-in-a-sorted-array.py)
