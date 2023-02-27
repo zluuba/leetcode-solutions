@@ -72,6 +72,7 @@
 ### Medium
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
 + [55. Jump Game](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B55%5D-jump-game.py)
++ [62. Unique Paths](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B62%5D-unique-paths.py)
 + [98. Validate Binary Search Tree](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B98%5D-validate-binary-search-tree.py)
 + [102. Binary Tree Level Order Traversal](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B102%5D-binary-tree-level-order-traversal.py)
 + [142. Linked List Cycle II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B142%5D-linked-list-cycle-ii.py)
