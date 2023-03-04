@@ -67,6 +67,7 @@
 + [2235. Add Two Integers](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2235%5D-add-two-integers.py)
 + [2236. Root Equals Sum of Children](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2236%5D-root-equals-sum-of-children.py)
 + [2325. Decode the Message](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2325%5D-decode-the-message.py)
++ [2367. Number of Arithmetic Triplets](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2367%5D-number-of-arithmetic_triplets.py)
 + [2413. Smallest Even Multiple](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2413%5D-smallest-even-multiple.py)
 + [2469. Convert the Temperature](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2469%5D-convert-the-temperature.py)
 + [2520. Count the Digits That Divide a Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2520%5D-count-the-digits-that-divide-a-number.py)
