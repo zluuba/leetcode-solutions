@@ -58,6 +58,8 @@
 + [1528. Shuffle String](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1528%5D-shuffle-string.py)
 + [1672. Richest Customer Wealth](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1672%5D-richest-customer-wealth.py) + [1678. Goal Parser Interpretation](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1678%5D-goal-parser-interpretation.py)
 + [1720. Decode XORed Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1720%5D-decode-XORed-array.py)
++ [1791. Find Center of Star Graph](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1791%5D-find-center-of-star-graph.py)
++ [1832. Check if the Sentence Is Pangram](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1832%5D-check-if-the-sentence-is-pangram.py)
 + [1859. Sorting the Sentence](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1859%5D-sorting-the-sentence.py)
 + [1920. Build Array from Permutation](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1920%5D-build-array-from-permutation.py)
 + [1929. Concatenation of Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1929%5D-concatenation-of-array.py)
