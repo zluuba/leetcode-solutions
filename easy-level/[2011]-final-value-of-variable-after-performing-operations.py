@@ -8,9 +8,10 @@
 # return the final value of X after performing all the operations.
 
 # --------------- Runtime 49 ms, beats 88.60%. Memory 13.7MB, beats 94.60% ---------------
+from typing import List
 
 
 class Solution:
-    def finalValueAfterOperations(self, operations: list[str]) -> int:
+    def finalValueAfterOperations(self, operations: List[str]) -> int:
         result = [1 if op in ('++X', 'X++') else -1 for op in operations]
         return sum(result)

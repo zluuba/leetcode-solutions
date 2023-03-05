@@ -3,13 +3,12 @@
 # In other words, return true if one of s1's permutations is the substring of s2.
 
 # --------------- Runtime 1698 ms, beats 19.45%. Memory 13.9MB, beats 60.41% ---------------
-
-
+from typing import Dict
 from collections import Counter
 
 
 class Solution:
-    def count(self, string: str) -> dict:
+    def count(self, string: str) -> Dict:
                 dic = dict()
                 counter = Counter(string)
                 for char in set(string):

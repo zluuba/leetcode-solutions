@@ -8,10 +8,11 @@
 # It is guaranteed that the insertion operations will be valid.
 
 # --------------- Runtime 33 ms, beats 79.37%. Memory 13.8MB, beats 96.18% ---------------
+from typing import List
 
 
 class Solution:
-    def createTargetArray(self, nums: list[int], index: list[int]) -> list[int]:
+    def createTargetArray(self, nums: List[int], index: List[int]) -> List[int]:
         result = []
         for ind, n in enumerate(index):
             result.insert(n, nums[ind])

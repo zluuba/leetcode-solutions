@@ -9,10 +9,11 @@
 # The test cases are generated such that you can reach nums[n - 1].
 
 # --------------- Runtime 124 ms, beats 93.23%. Memory 15MB, beats 54.98% ---------------
+from typing import List
 
 
 class Solution:
-    def jump(self, nums: list[int]) -> int:
+    def jump(self, nums: List[int]) -> int:
         steps = 0
         left_border = 0
         right_border = 0

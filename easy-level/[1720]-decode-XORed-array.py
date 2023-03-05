@@ -8,10 +8,11 @@
 # Return the original array arr. It can be proved that the answer exists and is unique.
 
 # --------------- Runtime 239 ms, beats 47.79%. Memory 15.7MB, beats 84.74% ---------------
+from typing import List
 
 
 class Solution:
-    def decode(self, encoded: list[int], first: int) -> list[int]:
+    def decode(self, encoded: List[int], first: int) -> List[int]:
         result = [first]
         for char in encoded:
             curr = first ^ char

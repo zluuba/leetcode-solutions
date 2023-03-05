@@ -9,10 +9,11 @@
 # Return the number of distinct valid names for the company.
 
 # --------------- Runtime 879 ms, beats 65.22%. Memory 28.4MB, beats 64.13% ---------------
+from typing import List
 
 
 class Solution:
-    def distinctNames(self, ideas: list[str]) -> int:
+    def distinctNames(self, ideas: List[str]) -> int:
         groups = {}
         for idea in ideas:
             first_char = idea[0]

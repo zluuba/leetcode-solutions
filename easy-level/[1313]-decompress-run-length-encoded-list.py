@@ -7,10 +7,11 @@
 # Return the decompressed list.
 
 # --------------- Runtime 65 ms, beats 87.43%. Memory 14.5MB, beats 22.35% ---------------
+from typing import List
 
 
 class Solution:
-    def decompressRLElist(self, nums: list[int]) -> list[int]:
+    def decompressRLElist(self, nums: List[int]) -> List[int]:
         result = []
         for ind in range(0, len(nums) - 1, 2):
             count, num = nums[ind], nums[ind + 1]

@@ -12,10 +12,11 @@
 # array in-place with O(1) extra memory.
 
 # --------------- Runtime 95 ms, beats 56.12%. Memory 15.5MB, beats 95.64% ---------------
+from typing import List
 
 
 class Solution:
-    def removeDuplicates(self, nums: list[int]) -> int:
+    def removeDuplicates(self, nums: List[int]) -> int:
         shift = 1
 
         for ind in range(1, len(nums)):

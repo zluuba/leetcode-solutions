@@ -8,9 +8,10 @@
 # Return the matrix after sorting it.
 
 # --------------- Runtime 469 ms, beats 72.58%. Memory 19.9MB, beats 96.61% ---------------
+from typing import List
 
 
 class Solution:
-    def sortTheStudents(self, score: list[list[int]], k: int) -> list[list[int]]:
+    def sortTheStudents(self, score: List[List[int]], k: int) -> List[List[int]]:
         score.sort(key=lambda x: x[k], reverse=True)
         return score

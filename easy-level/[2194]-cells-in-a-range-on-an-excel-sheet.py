@@ -12,10 +12,11 @@
 # non-decreasing order first by columns and then by rows.
 
 # --------------- Runtime 43 ms, beats 60.90%. Memory 13.9MB, beats 60.90% ---------------
+from typing import List
 
 
 class Solution:
-    def cellsInRange(self, s: str) -> list[str]:
+    def cellsInRange(self, s: str) -> List[str]:
         start_cell, end_cell = s.split(':')
 
         result = []
@@ -28,12 +29,12 @@ class Solution:
 
 
 # Alternative solution. Without ord() function.
-# Also used with string lib (ascii_uppercase const)
+# Also used with string lib (ascii_uppercase)
 # --------------- Runtime 44 ms, beats 54.63%. Memory 14MB, beats 16.74% ---------------
 
 
 class Solution2:
-    def cellsInRange(self, s: str) -> list[str]:
+    def cellsInRange(self, s: str) -> List[str]:
         letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
         start_cell, end_cell = s.split(':')
         chunk = letters.index(start_cell[0]), letters.index(end_cell[0])

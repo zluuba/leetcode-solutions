@@ -6,10 +6,11 @@
 # Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
 
 # --------------- Runtime 1092 ms, beats 60.47%. Memory 25MB, beats 83.14% ---------------
+from typing import List
 
 
 class Solution:
-    def maxProfit(self, prices: list[int]) -> int:
+    def maxProfit(self, prices: List[int]) -> int:
         buy, profit = prices[0], 0
 
         for sell in prices:

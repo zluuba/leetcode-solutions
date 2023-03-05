@@ -7,14 +7,17 @@
 # Both the left and right subtrees must also be binary search trees.
 
 # --------------- Runtime 68 ms, beats 12.56%. Memory 16.4MB, beats 72.79% ---------------
+from typing import Optional
 
 
 # Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         def check(node, left, right):

@@ -11,10 +11,11 @@
 # Given the integer array fruits, return the maximum number of fruits you can pick.
 
 # --------------- Runtime 836 ms, beats 93.59%. Memory 20.2MB, beats 51.24% ---------------
+from typing import List
 
 
 class Solution:
-    def totalFruit(self, fruits: list[int]) -> int:
+    def totalFruit(self, fruits: List[int]) -> int:
         basket = {}
         left = 0
 

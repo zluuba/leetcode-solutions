@@ -5,10 +5,11 @@
 # You must solve the problem without modifying the array nums and uses only constant extra space.
 
 # --------------- Runtime 664 ms, beats 53.87%. Memory 27.9MB, beats 88.62% ---------------
+from typing import List
 
 
 class Solution:
-    def findDuplicate(self, nums: list[int]) -> int:
+    def findDuplicate(self, nums: List[int]) -> int:
         p1 = p2 = 0
         while True:
             p1 = nums[p1]

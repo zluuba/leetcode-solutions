@@ -5,6 +5,7 @@
 # typically using all the original letters exactly once.
 
 # --------------- Runtime 3976 ms, beats 13.65%. Memory 15.2MB, beats 27% ---------------
+from typing import List
 
 
 class Solution:
@@ -15,7 +16,7 @@ class Solution:
             d[char] = count
         return d
 
-    def findAnagrams(self, s: str, p: str) -> list[int]:
+    def findAnagrams(self, s: str, p: str) -> List[int]:
         res = []
         dict_p = self.get_dict(p)
 

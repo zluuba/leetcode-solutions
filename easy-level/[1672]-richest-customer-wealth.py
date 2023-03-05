@@ -5,9 +5,10 @@
 # The richest customer is the customer that has the maximum wealth.
 
 # --------------- Runtime 49 ms, beats 95.40%. Memory 13.9MB, beats 24.18% ---------------
+from typing import List
 
 
 class Solution:
-    def maximumWealth(self, accounts: list[list[int]]) -> int:
+    def maximumWealth(self, accounts: List[List[int]]) -> int:
         sums = [sum(acc) for acc in accounts]
         return max(sums)

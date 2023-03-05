@@ -4,10 +4,11 @@
 # Return true if you can reach the last index, or false otherwise.
 
 # --------------- Runtime 519 ms, beats 51.40%. Memory 15.2MB, beats 78.83% ---------------
+from typing import List
 
 
 class Solution:
-    def canJump(self, nums: list[int]) -> bool:
+    def canJump(self, nums: List[int]) -> bool:
         curr = 0
 
         for index, number in enumerate(nums):

@@ -7,10 +7,11 @@
 # Note that the absolute difference between two integers x and y is defined as |x - y|.
 
 # --------------- Runtime 159 ms, beats 30.33%. Memory 14MB, beats 90.90% ---------------
+from typing import List
 
 
 class Solution:
-    def differenceOfSum(self, nums: list[int]) -> int:
+    def differenceOfSum(self, nums: List[int]) -> int:
         elem_sum = sum(nums)
         digit_sum = 0
         for num in nums:
@@ -26,7 +27,7 @@ class Solution:
 
 
 class Solution2:
-    def differenceOfSum(self, nums: list[int]) -> int:
+    def differenceOfSum(self, nums: List[int]) -> int:
         digits = ''.join([str(n) for n in nums])
         digit_sum = sum(list(map(int, digits)))
         return abs(sum(nums) - digit_sum)

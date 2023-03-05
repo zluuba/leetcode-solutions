@@ -5,10 +5,11 @@
 # return true if and only if the given words are sorted lexicographically in this alien language.
 
 # --------------- Runtime 36 ms, beats 75.82%. Memory 13.8MB, beats 76.45% ---------------
+from typing import List
 
 
 class Solution:
-    def isAlienSorted(self, words: list[str], order: str) -> bool:
+    def isAlienSorted(self, words: List[str], order: str) -> bool:
         for i in range(len(words) - 1):
             word1, word2 = words[i], words[i + 1]
 

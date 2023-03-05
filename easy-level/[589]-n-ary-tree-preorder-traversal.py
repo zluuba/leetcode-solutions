@@ -4,6 +4,7 @@
 # Each group of children is separated by the null value.
 
 # --------------- Runtime 52 ms, beats 71.54%. Memory 16.3MB, beats 38.32% ---------------
+from typing import List
 
 
 """
@@ -16,7 +17,7 @@ class Node:
 
 
 class Solution:
-    def preorder(self, root: 'Node') -> list[int]:
+    def preorder(self, root: 'Node') -> List[int]:
         result = []
 
         def get_value(node):

@@ -2,10 +2,11 @@
 # Return the array in the form [x1,y1,x2,y2,...,xn,yn].
 
 # --------------- Runtime 56 ms, beats 94.54%. Memory 14.1MB, beats 86.30% ---------------
+from typing import List
 
 
 class Solution:
-    def shuffle(self, nums: list[int], n: int) -> list[int]:
+    def shuffle(self, nums: List[int], n: int) -> List[int]:
         left = nums[:n]
         right = nums[n:]
         result = []

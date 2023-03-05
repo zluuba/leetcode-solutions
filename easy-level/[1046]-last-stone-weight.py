@@ -10,8 +10,6 @@
 # Return the weight of the last remaining stone. If there are no stones left, return 0.
 
 # --------------- Runtime 37 ms, beats 42.20%. Memory 13.8MB, beats 51.68% ---------------
-
-
 from typing import List
 
 

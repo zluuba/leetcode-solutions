@@ -2,16 +2,19 @@
 # (i.e., from left to right, level by level).
 
 # --------------- Runtime 36 ms, beats 68.67%. Memory 14.2MB, beats 42.97% ---------------
+from typing import List, Optional
 
 
 # Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
 class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> list[list[int]]:
+    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         stack, result = [root], []
 
         while stack:

@@ -4,10 +4,11 @@
 # Return the answer in an array.
 
 # --------------- Runtime 371 ms, beats 33.20%. Memory 13.8MB, beats 79.67% ---------------
+from typing import List
 
 
 class Solution:
-    def smallerNumbersThanCurrent(self, nums: list[int]) -> list[int]:
+    def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
         result = []
         for i in nums:
             count = [1 if i > x else 0 for x in nums if i != x]

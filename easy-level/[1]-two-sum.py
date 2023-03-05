@@ -6,10 +6,11 @@
 # You can return the answer in any order.
 
 # --------------- Runtime 61 ms, beats 84.66%. Memory 15.2MB, beats 41.36% ---------------
+from typing import List
 
 
 class Solution:
-    def twoSum(self, nums: list[int], target: int) -> list[int]:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         passed_nums = dict()
 
         for ind, num in enumerate(nums):
@@ -26,7 +27,7 @@ class Solution:
 
 
 class Solution2:
-    def twoSum(self, nums: list[int], target: int) -> list[int]:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         for ind, num in enumerate(nums):
             looking_for = target - num
 

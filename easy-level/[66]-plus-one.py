@@ -5,10 +5,11 @@
 # Increment the large integer by one and return the resulting array of digits.
 
 # --------------- Runtime 39 ms, beats 39.62%. Memory 13.8MB, beats 95.28% ---------------
+from typing import List
 
 
 class Solution:
-    def plusOne(self, digits: list[int]) -> list[int]:
+    def plusOne(self, digits: List[int]) -> List[int]:
         num = ''.join([str(num) for num in digits])
         num_plus_one = int(num) + 1
         return [int(num) for num in str(num_plus_one)]
@@ -19,7 +20,7 @@ class Solution:
 
 
 class Solution2:
-    def plusOne(self, digits: list[int]) -> list[int]:
+    def plusOne(self, digits: List[int]) -> List[int]:
         last_ind = len(digits) - 1
 
         for ind in range(last_ind, -1, -1):

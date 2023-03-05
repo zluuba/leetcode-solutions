@@ -11,8 +11,9 @@
 # Fahrenheit = Celsius * 1.80 + 32.00
 
 # --------------- Runtime 28 ms, beats 86.13%. Memory 13.7MB, beats 92.54% ---------------
+from typing import List
 
 
 class Solution:
-    def convertTemperature(self, celsius: float) -> list[float]:
+    def convertTemperature(self, celsius: float) -> List[float]:
         return [celsius + 273.15, celsius * 1.8 + 32.0]

@@ -8,9 +8,10 @@
 # that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
 
 # --------------- Runtime 38 ms, beats 73.97%. Memory 13.9MB, beats 30.56% ---------------
+from typing import List
 
 
 class Solution:
-    def merge(self, nums1: list[int], m: int, nums2: list[int], n: int) -> None:
+    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         nums1[m:m + n] = nums2
         nums1.sort()

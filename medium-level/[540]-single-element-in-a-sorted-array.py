@@ -6,10 +6,11 @@
 # Your solution must run in O(log n) time and O(1) space.
 
 # --------------- Runtime 155 ms, beats 99.78%. Memory 23.6MB, beats 99.62% ---------------
+from typing import List
 
 
 class Solution:
-    def singleNonDuplicate(self, nums: list[int]) -> int:
+    def singleNonDuplicate(self, nums: List[int]) -> int:
         p1, p2 = 0, len(nums) - 1
 
         while p1 < p2:

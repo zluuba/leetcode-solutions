@@ -8,10 +8,11 @@
 # Note that multiple kids can have the greatest number of candies.
 
 # --------------- Runtime 35 ms, beats 90.26%. Memory 13.8MB, beats 95.85% ---------------
+from typing import List
 
 
 class Solution:
-    def kidsWithCandies(self, candies: list[int], extraCandies: int) -> list[bool]:
+    def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
         result = []
         for candy in candies:
             if candy + extraCandies >= max(candies):

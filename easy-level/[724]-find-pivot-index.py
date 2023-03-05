@@ -9,10 +9,11 @@
 # Return the leftmost pivot index. If no such index exists, return -1.
 
 # --------------- Runtime 148 ms, beats 90.6%. Memory 15.3MB, beats 8.25% ---------------
+from typing import List
 
 
 class Solution:
-    def pivotIndex(self, nums: list[int]) -> int:
+    def pivotIndex(self, nums: List[int]) -> int:
         left, right = 0, sum(nums)
 
         for ind, num in enumerate(nums):
@@ -28,7 +29,7 @@ class Solution:
 
 
 class Solution2:
-    def pivotIndex(self, nums: list[int]) -> int:
+    def pivotIndex(self, nums: List[int]) -> int:
         for i in range(len(nums)):
             left = nums[:i]
             right = nums[i + 1:] if i != len(nums) else 0

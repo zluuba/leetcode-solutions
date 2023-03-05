@@ -3,10 +3,11 @@
 # Return the running sum of nums.
 
 # --------------- Runtime 41 ms, beats 73.85%. Memory 14.1MB, beats 67.37% ---------------
+from typing import List
 
 
 class Solution:
-    def runningSum(self, nums: list[int]) -> list[int]:
+    def runningSum(self, nums: List[int]) -> List[int]:
         if len(nums) < 1:
             return nums
 

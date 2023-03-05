@@ -6,10 +6,11 @@
 # Return the minimum cost to reach the top of the floor.
 
 # --------------- Runtime 63 ms, beats 55.86%. Memory 13.9MB, beats 67.34% ---------------
+from typing import List
 
 
 class Solution:
-    def minCostClimbingStairs(self, cost: list[int]) -> int:
+    def minCostClimbingStairs(self, cost: List[int]) -> int:
         step1 = cost[0]
         step2 = cost[1]
 

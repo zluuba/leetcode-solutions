@@ -15,15 +15,15 @@
 class Solution:
     def fill(self, image, sr, sc, color, curr_color):
         if sr < 0 or sr >= len(image) or sc < 0 or sc >= len(image[0]) or \
-        curr_color != image[sr][sc]:
+                curr_color != image[sr][sc]:
             return
 
         image[sr][sc] = color
 
-        self.fill(image, sr-1, sc, color, curr_color)
-        self.fill(image, sr+1, sc, color, curr_color)
-        self.fill(image, sr, sc-1, color, curr_color)
-        self.fill(image, sr, sc+1, color, curr_color)
+        self.fill(image, sr - 1, sc, color, curr_color)
+        self.fill(image, sr + 1, sc, color, curr_color)
+        self.fill(image, sr, sc - 1, color, curr_color)
+        self.fill(image, sr, sc + 1, color, curr_color)
 
     def floodFill(self, image, sr, sc, color):
         curr_color = image[sr][sc]

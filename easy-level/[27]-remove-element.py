@@ -12,10 +12,11 @@
 # array in-place with O(1) extra memory.
 
 # --------------- Runtime 36 ms, beats 63.16%. Memory 13.9MB, beats 53.63% ---------------
+from typing import List
 
 
 class Solution:
-    def removeElement(self, nums: list[int], val: int) -> int:
+    def removeElement(self, nums: List[int], val: int) -> int:
         i = 0
         while val in nums:
             if nums[i] == val:

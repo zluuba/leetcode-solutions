@@ -10,8 +10,6 @@
 # with the number of occurrence being 4, 3, 2 and 1 respectively.
 
 # --------------- Runtime 62 ms, beats 47.52%. Memory 13.9MB, beats 57.35% ---------------
-
-
 from typing import List
 
 

@@ -4,10 +4,11 @@
 # Return the shuffled string.
 
 # --------------- Runtime 49 ms, beats 95.59%. Memory 13.8MB, beats 52.90% ---------------
+from typing import List
 
 
 class Solution:
-    def restoreString(self, s: str, indices: list[int]) -> str:
+    def restoreString(self, s: str, indices: List[int]) -> str:
         result = [''] * len(s)
         for ind, n in enumerate(indices):
             result[n] = s[ind]

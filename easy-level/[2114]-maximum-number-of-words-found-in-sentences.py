@@ -5,10 +5,11 @@
 # Return the maximum number of words that appear in a single sentence.
 
 # --------------- Runtime 42 ms, beats 74.5%. Memory 13.9MB, beats 36.18% ---------------
+from typing import List
 
 
 class Solution:
-    def mostWordsFound(self, sentences: list[str]) -> int:
+    def mostWordsFound(self, sentences: List[str]) -> int:
         maximum = 0
         for sentence in sentences:
             length = len(sentence.split())

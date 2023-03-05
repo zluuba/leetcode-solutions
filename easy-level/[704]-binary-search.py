@@ -4,10 +4,11 @@
 # You must write an algorithm with O(log n) runtime complexity.
 
 # --------------- Runtime 230 ms, beats 98.48%. Memory 15.5MB, beats 16.43% ---------------
+from typing import List
 
 
 class Solution:
-    def search(self, nums: list[int], target: int) -> int:
+    def search(self, nums: List[int], target: int) -> int:
         p1, p2 = 0, len(nums) - 1
 
         while p1 <= p2:

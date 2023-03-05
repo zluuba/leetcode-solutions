@@ -24,8 +24,6 @@ class Solution:
 
 # Alternative solution. Use numpy lib
 # --------------- Runtime 78 ms, beats 5.7%. Memory 31.8MB, beats 9.52% ---------------
-
-
 from numpy import base_repr
 
 

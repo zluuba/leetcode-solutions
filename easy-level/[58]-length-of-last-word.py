@@ -6,7 +6,7 @@
 # --------------- Runtime 23 ms, beats 97.28%. Memory 13.9MB, beats 73.47% ---------------
 
 
-class Solution2:
+class Solution:
     def lengthOfLastWord(self, s: str) -> int:
         words = s.split()
         last_word = words[-1]
@@ -17,6 +17,6 @@ class Solution2:
 # --------------- Runtime 25 ms, beats 93.61%. Memory 14MB, beats 31.77% ---------------
 
 
-class Solution:
+class Solution2:
     def lengthOfLastWord(self, s: str) -> int:
         return len(s.split()[-1])
