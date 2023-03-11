@@ -107,6 +107,7 @@
 + [175. Combine Two Tables](https://github.com/zluuba/leetcode/blob/main/SQL/%5B175%5D-combine-two-tables.sql)
 + [181. Employees Earning More Than Their Managers](https://github.com/zluuba/leetcode/blob/main/SQL/%5B181%5D-employees-earning-more-than-their-managers.sql)
 + [182. Duplicate Emails](https://github.com/zluuba/leetcode/blob/main/SQL/%5B182%5D-duplicate-emails.sql)
++ [627. Swap Salary](https://github.com/zluuba/leetcode/blob/main/SQL/%5B627%5D-swap-salary.sql)
 + [1693. Daily Leads and Partners](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1693%5D-daily-leads-and-partners.sql)
 + [1741. Find Total Time Spent by Each Employee](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1741%5D-find-total-time-spent-by-each-employee.sql)
 + [1757. Recyclable and Low Fat Products](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1757%5D-recyclable-and-low-fat-products.sql)
