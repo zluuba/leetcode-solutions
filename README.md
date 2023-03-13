@@ -19,6 +19,7 @@
 + [69. Sqrt(x)](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B69%5D-sqrt(x).py)
 + [70. Climbing Stairs](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B70%5D-climbing-stairs.py)
 + [88. Merge Sorted Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B88%5D-merge-sorted-array.py)
++ [101. Symmetric Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B101%5D-symmetric-tree.py)
 + [104. Maximum Depth of Binary Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B104%5D-maximum-depth-of-binary-tree.py)
 + [121. Best Time to Buy and Sell Stock](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B121%5D-best-time-to-buy-and-sell-stock.py)
 + [136. Single Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B136%5D-single-number.py)
