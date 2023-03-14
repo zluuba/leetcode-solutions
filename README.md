@@ -75,6 +75,7 @@
 + [2011. Final Value of Variable After Performing Operations](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2011%5D-final-value-of-variable-after-performing-operations.py)
 + [2114. Maximum Number of Words Found in Sentences](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2114%5D-maximum-number-of-words-found-in-sentences.py)
 + [2194. Cells in a Range on an Excel Sheet](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2194%5D-cells-in-a-range-on-an-excel-sheet.py)
++ [2220. Minimum Bit Flips to Convert Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2220%5D-minimum-bit-flips-to-convert-number.py)
 + [2235. Add Two Integers](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2235%5D-add-two-integers.py)
 + [2236. Root Equals Sum of Children](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2236%5D-root-equals-sum-of-children.py)
 + [2325. Decode the Message](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2325%5D-decode-the-message.py)
