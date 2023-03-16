@@ -86,6 +86,7 @@
 + [2469. Convert the Temperature](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2469%5D-convert-the-temperature.py)
 + [2520. Count the Digits That Divide a Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2520%5D-count-the-digits-that-divide-a-number.py)
 + [2535. Difference Between Element Sum and Digit Sum of an Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2535%5D-difference-between-element-sum-and-digit-sum-of-an-array.py)
++ [2574. Left and Right Sum Differences](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2574%5D-left-and-right-sum-differences.py)
 
 ### Medium
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
