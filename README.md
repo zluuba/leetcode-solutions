@@ -34,6 +34,7 @@
 + [509. Fibonacci Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B509%5D-fibonacci-number.py)
 + [557. Reverse Words in a String III](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B557%5D-reverse-words-in-a-string-iii.py)
 + [589. N-ary Tree Preorder Traversal](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B589%5D-n-ary-tree-preorder-traversal.py)
++ [605. Can Place Flowers](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B605%5D-can-place-flowers.py)
 + [704. Binary Search](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B704%5D-binary-search.py)
 + [709. To Lower Case](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B709%5D-to-lower-case.py)
 + [724. Find Pivot Index](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B724%5D-find-pivot-index.py)
