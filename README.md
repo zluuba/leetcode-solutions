@@ -89,6 +89,7 @@
 + [2325. Decode the Message](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2325%5D-decode-the-message.py)
 + [2367. Number of Arithmetic Triplets](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2367%5D-number-of-arithmetic_triplets.py)
 + [2413. Smallest Even Multiple](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2413%5D-smallest-even-multiple.py)
++ [2418. Sort the People](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2418%5D-sort-the-people.py)
 + [2469. Convert the Temperature](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2469%5D-convert-the-temperature.py)
 + [2520. Count the Digits That Divide a Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2520%5D-count-the-digits-that-divide-a-number.py)
 + [2535. Difference Between Element Sum and Digit Sum of an Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2535%5D-difference-between-element-sum-and-digit-sum-of-an-array.py)
