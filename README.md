@@ -89,6 +89,7 @@
 + [2103. Rings and Rods](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2103%5D-rings-and-rods.py)
 + [2114. Maximum Number of Words Found in Sentences](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2114%5D-maximum-number-of-words-found-in-sentences.py)
 + [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2160%5D-minimum-sum-of-four-digit-number-after-splitting-digits.py)
++ [2176. Count Equal and Divisible Pairs in an Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2176%5D-count-equal-and-divisible-pairs-in-an-array.py)
 + [2194. Cells in a Range on an Excel Sheet](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2194%5D-cells-in-a-range-on-an-excel-sheet.py)
 + [2220. Minimum Bit Flips to Convert Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2220%5D-minimum-bit-flips-to-convert-number.py)
 + [2235. Add Two Integers](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2235%5D-add-two-integers.py)
@@ -104,6 +105,7 @@
 + [2500. Delete Greatest Value in Each Row](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2500%5D-delete-greatest-value-in-each-row.py)
 + [2520. Count the Digits That Divide a Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2520%5D-count-the-digits-that-divide-a-number.py)
 + [2535. Difference Between Element Sum and Digit Sum of an Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2535%5D-difference-between-element-sum-and-digit-sum-of-an-array.py)
++ [2553. Separate the Digits in an Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2553%5D-separate-the-digits-in-an-array.py)
 + [2574. Left and Right Sum Differences](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2574%5D-left-and-right-sum-differences.py)
 
 ### Medium
