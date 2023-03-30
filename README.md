@@ -126,10 +126,13 @@
 + [567. Permutation in String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B567%5D-permutation-in-string.py)
 + [692. Top K Frequent Words](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B692%5D-top-k-frequent-words.py)
 + [904. Fruit Into Baskets](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B904%5D-fruit-into-baskets.py)
++ [1561. Maximum Number of Coins You Can Get](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1561%5D-maximum-number-of-coins-you-can-get.py)
 + [1630. Arithmetic Subarrays](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1630%5D-arithmetic-subarrays.py)
 + [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1689%5D-partitioning-into-minimum-number-of-deci-binary-numbers.py)
 + [2149. Rearrange Array Elements by Sign](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2149%5D-rearrange-array-elements-by-sign.py)
++ [2221. Find Triangular Sum of an Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2221%5D-find-triangular-sum-of-an-array.py)
 + [2396. Strictly Palindromic Number](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2396%5D-strictly-palindromic-number.py)
++ [2442. Count Number of Distinct Integers After Reverse Operations](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2442%5D-count-number-of-distinct-integers-after-reverse-operations.py)
 + [2545. Sort the Students by Their Kth Score](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2545%5D-sort-the-students-by-their-kth-score.py)
 
 ### Hard
