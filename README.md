@@ -119,7 +119,7 @@
 + [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B235%5D-lowest-common-ancestor-of-a-binary-search-tree.py)
 + [287. Find the Duplicate Number](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B287%5D-find-the-duplicate-number.py)
 + [299. Bulls and Cows](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B299%5D-bulls-and-cows.py)
-+ [394. Decode String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B299%5D-decode-string.py)
++ [394. Decode String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B394%5D-decode-string.py)
 + [424. Longest Repeating Character Replacement](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B424%5D-longest-repeating-character-replacement.py)
 + [438. Find All Anagrams in a String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B438%5D-find-all-anagrams-in-a-string.py)
 + [540. Single Element in a Sorted Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B540%5D-single-element-in-a-sorted-array.py)
