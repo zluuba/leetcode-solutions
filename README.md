@@ -143,12 +143,14 @@
 + [181. Employees Earning More Than Their Managers](https://github.com/zluuba/leetcode/blob/main/SQL/%5B181%5D-employees-earning-more-than-their-managers.sql)
 + [182. Duplicate Emails](https://github.com/zluuba/leetcode/blob/main/SQL/%5B182%5D-duplicate-emails.sql)
 + [183. Customers Who Never Order](https://github.com/zluuba/leetcode/blob/main/SQL/%5B183%5D-customers-who-never-order.sql)
++ [196. Delete Duplicate Emails](https://github.com/zluuba/leetcode/blob/main/SQL/%5B196%5D-delete-duplicate-emails.sql)
 + [584. Find Customer Referee](https://github.com/zluuba/leetcode/blob/main/SQL/%5B584%5D-find-customer-referee.sql)
 + [595. Big Countries](https://github.com/zluuba/leetcode/blob/main/SQL/%5B595%5D-big-countries.sql)
 + [627. Swap Salary](https://github.com/zluuba/leetcode/blob/main/SQL/%5B627%5D-swap-salary.sql)
 + [1693. Daily Leads and Partners](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1693%5D-daily-leads-and-partners.sql)
 + [1741. Find Total Time Spent by Each Employee](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1741%5D-find-total-time-spent-by-each-employee.sql)
 + [1757. Recyclable and Low Fat Products](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1757%5D-recyclable-and-low-fat-products.sql)
++ [1873. Calculate Special Bonus](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1873%5D-calculate-special-bonus.sql)
 
 <br>
 
