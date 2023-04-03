@@ -147,10 +147,16 @@
 + [584. Find Customer Referee](https://github.com/zluuba/leetcode/blob/main/SQL/%5B584%5D-find-customer-referee.sql)
 + [595. Big Countries](https://github.com/zluuba/leetcode/blob/main/SQL/%5B595%5D-big-countries.sql)
 + [627. Swap Salary](https://github.com/zluuba/leetcode/blob/main/SQL/%5B627%5D-swap-salary.sql)
++ [1148. Article Views I](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1148%5D-article-views-i.sql)
++ [1484. Group Sold Products By The Date](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1484%5D-group-sold-products-by-the-date.sql)
++ [1527. Patients With a Condition](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1527%5D-patients-with-a-candition.sql)
++ [1581. Customer Who Visited but Did Not Make Any Transactions](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1581%5D-customer-who-visited-but-did-not-make-any-transactions.sql)
++ [1667. Fix Names in a Table](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1667%5D-fix-names-ib-a-table.sql)
 + [1693. Daily Leads and Partners](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1693%5D-daily-leads-and-partners.sql)
 + [1741. Find Total Time Spent by Each Employee](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1741%5D-find-total-time-spent-by-each-employee.sql)
 + [1757. Recyclable and Low Fat Products](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1757%5D-recyclable-and-low-fat-products.sql)
 + [1873. Calculate Special Bonus](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1873%5D-calculate-special-bonus.sql)
++ [1965. Employees With Missing Information](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1965%5D-employees-with-missing-information.sql)
 
 <br>
 
