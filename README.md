@@ -154,6 +154,7 @@
 + [196. Delete Duplicate Emails](https://github.com/zluuba/leetcode/blob/main/SQL/%5B196%5D-delete-duplicate-emails.sql)
 + [584. Find Customer Referee](https://github.com/zluuba/leetcode/blob/main/SQL/%5B584%5D-find-customer-referee.sql)
 + [595. Big Countries](https://github.com/zluuba/leetcode/blob/main/SQL/%5B595%5D-big-countries.sql)
++ [607. Sales Person](https://github.com/zluuba/leetcode/blob/main/SQL/%5B607%5D-sales-person.sql)
 + [627. Swap Salary](https://github.com/zluuba/leetcode/blob/main/SQL/%5B627%5D-swap-salary.sql)
 + [1148. Article Views I](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1148%5D-article-views-i.sql)
 + [1484. Group Sold Products By The Date](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1484%5D-group-sold-products-by-the-date.sql)
