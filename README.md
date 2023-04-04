@@ -21,6 +21,7 @@
 + [88. Merge Sorted Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B88%5D-merge-sorted-array.py)
 + [101. Symmetric Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B101%5D-symmetric-tree.py)
 + [104. Maximum Depth of Binary Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B104%5D-maximum-depth-of-binary-tree.py)
++ [118. Pascal's Triangle](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B118%5D-pascals-triangle.py)
 + [121. Best Time to Buy and Sell Stock](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B121%5D-best-time-to-buy-and-sell-stock.py)
 + [136. Single Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B136%5D-single-number.py)
 + [205. Isomorphic Strings](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B205%5D-isomorphic-strings.py)
@@ -109,6 +110,8 @@
 + [2574. Left and Right Sum Differences](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2574%5D-left-and-right-sum-differences.py)
 
 ### Medium
++ [2. Add Two Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2%5D-add-two-numbers.py)
++ [3. Longest Substring Without Repeating Characters](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B3%5D-longest-substring-without-repeating-characters.py)
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
 + [55. Jump Game](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B55%5D-jump-game.py)
 + [62. Unique Paths](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B62%5D-unique-paths.py)
@@ -126,16 +129,21 @@
 + [567. Permutation in String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B567%5D-permutation-in-string.py)
 + [692. Top K Frequent Words](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B692%5D-top-k-frequent-words.py)
 + [904. Fruit Into Baskets](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B904%5D-fruit-into-baskets.py)
++ [1302. Deepest Leaves Sum](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1302%5D-deepest-leaves-sum.py)
++ [1476. Subrectangle Queries](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1476%5D-subrectangle-queries.py)
 + [1561. Maximum Number of Coins You Can Get](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1561%5D-maximum-number-of-coins-you-can-get.py)
 + [1630. Arithmetic Subarrays](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1630%5D-arithmetic-subarrays.py)
 + [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1689%5D-partitioning-into-minimum-number-of-deci-binary-numbers.py)
++ [1828. Queries on Number of Points Inside a Circle](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1828%5D-queries-on-number-of-points-inside-a-circle.py)
 + [2149. Rearrange Array Elements by Sign](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2149%5D-rearrange-array-elements-by-sign.py)
 + [2221. Find Triangular Sum of an Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2221%5D-find-triangular-sum-of-an-array.py)
 + [2396. Strictly Palindromic Number](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2396%5D-strictly-palindromic-number.py)
++ [2405. Optimal Partition of String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2405%5D-optimal-partition-of-string.py)
 + [2442. Count Number of Distinct Integers After Reverse Operations](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2442%5D-count-number-of-distinct-integers-after-reverse-operations.py)
 + [2545. Sort the Students by Their Kth Score](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2545%5D-sort-the-students-by-their-kth-score.py)
 
 ### Hard
++ [4. Median of Two Sorted Arrays](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B4%5D-median-of-two-sorted-arrays.py)
 + [2306. Naming a Company](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2306%5D-naming-a-company.py)
 
 ### SQL Section
