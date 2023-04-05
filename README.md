@@ -138,6 +138,7 @@
 + [1828. Queries on Number of Points Inside a Circle](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1828%5D-queries-on-number-of-points-inside-a-circle.py)
 + [2149. Rearrange Array Elements by Sign](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2149%5D-rearrange-array-elements-by-sign.py)
 + [2221. Find Triangular Sum of an Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2221%5D-find-triangular-sum-of-an-array.py)
++ [2300. Successful Pairs of Spells and Potions](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2300%5D-successful-pairs-of-spells-and-potions.py)
 + [2396. Strictly Palindromic Number](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2396%5D-strictly-palindromic-number.py)
 + [2405. Optimal Partition of String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2405%5D-optimal-partition-of-string.py)
 + [2439. Minimize Maximum of Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2439%5D-minimize-maximum-of-array.py)
