@@ -130,6 +130,7 @@
 + [692. Top K Frequent Words](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B692%5D-top-k-frequent-words.py)
 + [881. Boats to Save People](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B881%5D-boats-to-save-people.py)
 + [904. Fruit Into Baskets](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B904%5D-fruit-into-baskets.py)
++ [1020. Number of Enclaves](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1020%5D-number-of-enclaves.py)
 + [1254. Number of Closed Islands](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1254%5D-number-of-closed-islands.py)
 + [1302. Deepest Leaves Sum](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1302%5D-deepest-leaves-sum.py)
 + [1476. Subrectangle Queries](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1476%5D-subrectangle-queries.py)
