@@ -112,6 +112,8 @@
 ### Medium
 + [2. Add Two Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2%5D-add-two-numbers.py)
 + [3. Longest Substring Without Repeating Characters](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B3%5D-longest-substring-without-repeating-characters.py)
++ [8. String to Integer (atoi)](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B8%5D-string-to-integer-atoi.py)
++ [11. Container With Most Water](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B11%5D-container-with-most-water.py)
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
 + [55. Jump Game](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B55%5D-jump-game.py)
 + [62. Unique Paths](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B62%5D-unique-paths.py)
