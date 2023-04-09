@@ -111,7 +111,7 @@
 
 ### Medium
 + [2. Add Two Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2%5D-add-two-numbers.py)
-+ [3. Longest Substring Without Repeating Characters](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B3%5D-longest-substring-without-repeating-characters.py)
++ [3. Longest Substring Without Repeating Chpraracters](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B3%5D-longest-substring-without-repeating-characters.py)
 + [8. String to Integer (atoi)](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B8%5D-string-to-integer-atoi.py)
 + [11. Container With Most Water](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B11%5D-container-with-most-water.py)
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
@@ -152,6 +152,7 @@
 
 ### Hard
 + [4. Median of Two Sorted Arrays](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B4%5D-median-of-two-sorted-arrays.py)
++ [1857. Largest Color Value in a Directed Graph](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1857%5D-largest-color-value-in-a-directed-graph.py)
 + [2306. Naming a Company](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2306%5D-naming-a-company.py)
 
 ### SQL Section
