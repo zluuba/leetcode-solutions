@@ -3,14 +3,14 @@
 #
 # You must write an algorithm with O(log n) runtime complexity.
 
-# --------------- Runtime 59 ms, beats 29.7%. Memory 14.6MB, beats 74.20% ---------------
+# --------------- Runtime 43 ms, beats 96%. Memory 14.5MB, beats 98.31% ---------------
 from typing import List
 
 
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-        for i, num in enumerate(nums):
+        for ind, num in enumerate(nums):
             if num >= target:
-                return i
+                return ind
 
         return len(nums)
