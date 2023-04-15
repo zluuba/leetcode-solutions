@@ -29,6 +29,7 @@
 + [226. Invert Binary Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B226%5D-invert-binary-tree.py)
 + [278. First Bad Version](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B278%5D-first-bad-version.py)
 + [283. Move Zeroes](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B283%5D-move-zeroes.py)
++ [344. Reverse String](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B344%5D-reverse-string.py)
 + [383. Ransom Note](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B383%5D-ransom-note.py)
 + [392. Is Subsequence](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B392%5D-is-subsequence.py)
 + [409. Longest Palindrome](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B409%5D-longest-palindrome.py)
@@ -162,6 +163,7 @@
 ### Hard
 + [4. Median of Two Sorted Arrays](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B4%5D-median-of-two-sorted-arrays.py)
 + [1857. Largest Color Value in a Directed Graph](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1857%5D-largest-color-value-in-a-directed-graph.py)
++ [2218. Maximum Value of K Coins From Piles](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2218%5D-maximum-value-of-k-coins-from-piles.py)
 + [2306. Naming a Company](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2306%5D-naming-a-company.py)
 
 ### SQL Section
