@@ -21,3 +21,12 @@ class Solution:
                 result.append(False)
 
         return result
+
+
+# Alternative solution with list comprehension
+# --------------- Runtime 34 ms, beats 90.72%. Memory 13.8MB, beats 50.96% ---------------
+
+class Solution2:
+    def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
+        maximum = max(candies)
+        return [True if candy + extraCandies >= maximum else False for candy in candies]
