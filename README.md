@@ -149,6 +149,7 @@
 + [1143. Longest Common Subsequence](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1143%5D-longest-common-subsequence.py)
 + [1254. Number of Closed Islands](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1254%5D-number-of-closed-islands.py)
 + [1302. Deepest Leaves Sum](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1302%5D-deepest-leaves-sum.py)
++ [1372. Longest ZigZag Path in a Binary Tree](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1372%5D-longest-zigzag-path-in-a-binary-tree.py)
 + [1476. Subrectangle Queries](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1476%5D-subrectangle-queries.py)
 + [1561. Maximum Number of Coins You Can Get](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1561%5D-maximum-number-of-coins-you-can-get.py)
 + [1630. Arithmetic Subarrays](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1630%5D-arithmetic-subarrays.py)
