@@ -1,3 +1,5 @@
+-- https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/
+
 -- Write a SQL query to find the IDs of the users who visited without making any transactions and the number
 -- of times they made these types of visits.
 -- Return the result table sorted in any order.

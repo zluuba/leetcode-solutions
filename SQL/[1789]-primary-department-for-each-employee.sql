@@ -1,3 +1,5 @@
+-- https://leetcode.com/problems/primary-department-for-each-employee/
+
 -- Employees can belong to multiple departments.
 -- When the employee joins other departments, they need to decide which department is their primary department.
 -- Note that when an employee belongs to only one department, their primary column is 'N'.

@@ -1,3 +1,5 @@
+-- https://leetcode.com/problems/recyclable-and-low-fat-products/
+
 -- Write an SQL query to find the ids of products that are both low fat and recyclable.
 -- Return the result table in any order.
 

@@ -1,3 +1,5 @@
+-- https://leetcode.com/problems/employees-with-missing-information/
+
 -- Write an SQL query to report the IDs of all the employees with missing information.
 -- The information of an employee is missing if:
 -- The employee's name is missing, or
