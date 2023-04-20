@@ -1,4 +1,14 @@
+# https://leetcode.com/problems/add-binary/
+
 # Given two binary strings a and b, return their sum as a binary string.
+
+# Example 1:
+# Input: a = "11", b = "1"
+# Output: "100"
+
+# Example 2:
+# Input: a = "1010", b = "1011"
+# Output: "10101"
 
 # Short solution
 # --------------- Runtime 38 ms, beats 53.43%. Memory 13.8MB, beats 63.5% ---------------

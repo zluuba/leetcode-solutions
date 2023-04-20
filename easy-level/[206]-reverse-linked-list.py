@@ -1,6 +1,20 @@
+# https://leetcode.com/problems/reverse-linked-list/
+
 # Given the head of a singly linked list, reverse the list, and return the reversed list.
 
-# --------------- Runtime 42 ms, beats 42.99%. Memory 20.4MB, beats 13.89% ---------------
+# Example 1:
+# Input: head = [1,2,3,4,5]
+# Output: [5,4,3,2,1]
+
+# Example 2:
+# Input: head = [1,2]
+# Output: [2,1]
+
+# Example 3:
+# Input: head = []
+# Output: []
+
+# --------------- Runtime 33 ms, beats 86.30%. Memory 15.4MB, beats 45.32% ---------------
 from typing import Optional
 
 

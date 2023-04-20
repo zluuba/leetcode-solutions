@@ -1,14 +1,30 @@
+# https://leetcode.com/problems/climbing-stairs/
+
 # You are climbing a staircase. It takes n steps to reach the top.
-#
 # Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 
-# --------------- Runtime 34 ms, beats 50.54%. Memory 13.8MB, beats 94.63% ---------------
+# Example 1:
+# Input: n = 2
+# Output: 2
+# Explanation: There are two ways to climb to the top.
+# 1. 1 step + 1 step
+# 2. 2 steps
+
+# Example 2:
+# Input: n = 3
+# Output: 3
+# Explanation: There are three ways to climb to the top.
+# 1. 1 step + 1 step + 1 step
+# 2. 1 step + 2 steps
+# 3. 2 steps + 1 step
+
+# --------------- Runtime 25 ms, beats 91.75%. Memory 13.8MB, beats 43.25% ---------------
 
 
 class Solution:
     def climbStairs(self, n: int) -> int:
-        point1, point2 = 1, 1
+        step1, step2 = 1, 1
         for i in range(n - 1):
-            point1, point2 = point1 + point2, point1
+            step1, step2 = step1 + step2, step1
 
-        return point1
+        return step1

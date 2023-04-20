@@ -1,12 +1,24 @@
+# https://leetcode.com/problems/count-the-number-of-consistent-strings/
+
 # You are given a string allowed consisting of distinct characters and an array of strings words.
 # A string is consistent if all characters in the string appear in the string allowed.
-#
+
 # Return the number of consistent strings in the array words.
-#
-# Example:
+
+# Example 1:
 # Input: allowed = "ab", words = ["ad","bd","aaab","baa","badab"]
 # Output: 2
 # Explanation: Strings "aaab" and "baa" are consistent since they only contain characters 'a' and 'b'.
+
+# Example 2:
+# Input: allowed = "abc", words = ["a","b","c","ab","ac","bc","abc"]
+# Output: 7
+# Explanation: All strings are consistent.
+
+# Example 3:
+# Input: allowed = "cad", words = ["cc","acd","b","ba","bac","bad","ac","d"]
+# Output: 4
+# Explanation: Strings "cc", "acd", "ac", and "d" are consistent.
 
 # --------------- Runtime 286 ms, beats 23.71%. Memory 15.9MB, beats 98.48% ---------------
 from typing import List
@@ -23,9 +35,9 @@ class Solution:
         return result
 
 
+# Alternative solution
 # --------------- Runtime 270 ms, beats 33.84%. Memory 16MB, beats 40.45% ---------------
 
-# Alternative solution. Shortest
 class Solution2:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
         result = [1 for word in words if set(word).issubset(set(allowed))]
