@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+
 # You are given two positive integer arrays spells and potions, of length n and m respectively,
 # where spells[i] represents the strength of the ith spell and potions[j] represents the strength of the jth potion.
 # You are also given an integer success. A spell and potion pair is considered successful
