@@ -169,6 +169,7 @@
 
 ### Hard
 + [4. Median of Two Sorted Arrays](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B4%5D-median-of-two-sorted-arrays.py)
++ [879. Profitable Schemes](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B879%5D-profitable-schemes.py)
 + [1639. Number of Ways to Form a Target String Given a Dictionary](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1639%5D-number-of-ways-to-form-a-target-string-given-a-dictionary.py)
 + [1857. Largest Color Value in a Directed Graph](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1857%5D-largest-color-value-in-a-directed-graph.py)
 + [2218. Maximum Value of K Coins From Piles](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2218%5D-maximum-value-of-k-coins-from-piles.py)
