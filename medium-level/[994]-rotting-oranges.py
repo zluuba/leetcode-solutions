@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/rotting-oranges/description/?envType=study-plan&id=algorithm-i
+# https://leetcode.com/problems/rotting-oranges/
 
 # You are given an m x n grid where each cell can have one of three values:
 # - 0 representing an empty cell,

@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/letter-case-permutation/description/?envType=study-plan&id=algorithm-i
+# https://leetcode.com/problems/letter-case-permutation/
 
 # Given a string s, you can transform every letter individually to be lowercase or uppercase to create another string.
 # Return a list of all possible strings we could create. Return the output in any order.
