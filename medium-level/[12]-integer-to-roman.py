@@ -30,9 +30,28 @@
 # Output: "MCMXCIV"
 # Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
-# --------------- Runtime 63 ms, beats 13.23%. Memory 16.5MB, beats 23.1% ---------------
+# --------------- Runtime 63 ms, beats 14.13%. Memory 16.4MB, beats 6.39% ---------------
 
 class Solution:
+    def intToRoman(self, num: int) -> str:
+        roman = {
+            1: 'I', 4: 'IV', 5: 'V', 9: 'IX', 10: 'X', 40: 'XL', 50: 'L',
+            90: 'XC', 100: 'C', 400: 'CD', 500: 'D', 900: 'CM', 1000: 'M',
+        }
+
+        result = ''
+        for key in reversed(roman.keys()):
+            if 0 < num // key:
+                result += roman[key] * (num // key)
+                num -= key * (num // key)
+
+        return result
+
+
+# Alternative solution - brute force
+# --------------- Runtime 63 ms, beats 13.23%. Memory 16.5MB, beats 23.1% ---------------
+
+class Solution2:
     roman = {
         1: 'I', 4: 'IV', 5: 'V', 9: 'IX', 10: 'X', 40: 'XL', 50: 'L',
         90: 'XC', 100: 'C', 400: 'CD', 500: 'D', 900: 'CM', 1000: 'M',
