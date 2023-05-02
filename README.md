@@ -91,6 +91,7 @@
 + [1768. Merge Strings Alternately](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1768%5D-merge-strings-alternately.py)
 + [1791. Find Center of Star Graph](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1791%5D-find-center-of-star-graph.py)
 + [1816. Truncate Sentence](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1816%5D-truncate-sentence.py)
++ [1822. Sign of the Product of an Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1822%5D-sign-of-the-product-of-an-array.py)
 + [1832. Check if the Sentence Is Pangram](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1832%5D-check-if-the-sentence-is-pangram.py)
 + [1844. Replace All Digits with Characters](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1844%5D-replace-all-digits-with-characters.py)
 + [1859. Sorting the Sentence](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1859%5D-sorting-the-sentence.py)
