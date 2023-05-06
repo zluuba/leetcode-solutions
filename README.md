@@ -177,6 +177,7 @@
 + [1372. Longest ZigZag Path in a Binary Tree](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1372%5D-longest-zigzag-path-in-a-binary-tree.py)
 + [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1456%5D-maximum-number-of-vowels-in-a-substring-of-given-length.py)
 + [1476. Subrectangle Queries](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1476%5D-subrectangle-queries.py)
++ [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1498%5D-number-of-subsequences-that-satisfy-the-given-sum-condition.py)
 + [1561. Maximum Number of Coins You Can Get](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1561%5D-maximum-number-of-coins-you-can-get.py)
 + [1630. Arithmetic Subarrays](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1630%5D-arithmetic-subarrays.py)
 + [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1689%5D-partitioning-into-minimum-number-of-deci-binary-numbers.py)
