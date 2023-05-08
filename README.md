@@ -84,6 +84,7 @@
 + [1523. Count Odd Numbers in an Interval Range](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1523%5D-count-odd-numbers-in-an-interval-range.py)
 + [1528. Shuffle String](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1528%5D-shuffle-string.py)
 + [1539. Kth Missing Positive Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1539%5D-kth-missing-positive-number.py)
++ [1572. Matrix Diagonal Sum](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1572%5D-matrix-diagonal-sum.py)
 + [1614. Maximum Nesting Depth of the Parentheses](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1614%5D-maximum-nesting-depth-of-the-parantheses.py)
 + [1672. Richest Customer Wealth](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1672%5D-richest-customer-wealth.py)
 + [1678. Goal Parser Interpretation](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1678%5D-goal-parser-interpretation.py)
@@ -152,6 +153,7 @@
 + [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B235%5D-lowest-common-ancestor-of-a-binary-search-tree.py)
 + [287. Find the Duplicate Number](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B287%5D-find-the-duplicate-number.py)
 + [299. Bulls and Cows](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B299%5D-bulls-and-cows.py)
++ [300. Longest Increasing Subsequence](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B300%5D-longest-increasing-subsequence.py)
 + [319. Bulb Switcher](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B319%5D-bulb-switcher.py)
 + [394. Decode String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B394%5D-decode-string.py)
 + [424. Longest Repeating Character Replacement](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B424%5D-longest-repeating-character-replacement.py)
@@ -203,6 +205,7 @@
 + [1639. Number of Ways to Form a Target String Given a Dictionary](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1639%5D-number-of-ways-to-form-a-target-string-given-a-dictionary.py)
 + [1697. Checking Existence of Edge Length Limited Paths](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1697%5D-checking-existence-of-edge-length-limited-paths.py)
 + [1857. Largest Color Value in a Directed Graph](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1857%5D-largest-color-value-in-a-directed-graph.py)
++ [1964. Find the Longest Valid Obstacle Course at Each Position](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1964%5D-find-the-longest-valid-obstacle-course-at-each-position.py)
 + [2218. Maximum Value of K Coins From Piles](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2218%5D-maximum-value-of-k-coins-from-piles.py)
 + [2306. Naming a Company](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2306%5D-naming-a-company.py)
 
