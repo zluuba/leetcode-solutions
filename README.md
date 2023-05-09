@@ -136,6 +136,7 @@
 + [19. Remove Nth Node From End of List](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B19%5D-remove-nth-node-from-end-of-list.py)
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
 + [46. Permutations](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B46%5D-permutations.py)
++ [54. Spiral Matrix](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B54%5D-spiral-matrix.py)
 + [55. Jump Game](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B55%5D-jump-game.py)
 + [62. Unique Paths](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B62%5D-unique-paths.py)
 + [71. Simplify Path](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B71%5D-simplify-path.py)
