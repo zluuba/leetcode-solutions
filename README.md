@@ -138,6 +138,7 @@
 + [46. Permutations](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B46%5D-permutations.py)
 + [54. Spiral Matrix](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B54%5D-spiral-matrix.py)
 + [55. Jump Game](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B55%5D-jump-game.py)
++ [59. Spiral Matrix II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B59%5D-spiral-matrix-ii.py)
 + [62. Unique Paths](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B62%5D-unique-paths.py)
 + [71. Simplify Path](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B71%5D-simplify-path.py)
 + [77. Combinations](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B77%5D-combinations.py)
