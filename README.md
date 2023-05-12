@@ -126,6 +126,7 @@
 + [2535. Difference Between Element Sum and Digit Sum of an Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2535%5D-difference-between-element-sum-and-digit-sum-of-an-array.py)
 + [2553. Separate the Digits in an Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2553%5D-separate-the-digits-in-an-array.py)
 + [2574. Left and Right Sum Differences](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2574%5D-left-and-right-sum-differences.py)
++ [2656. Maximum Sum With Exactly K Elements ](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2656%5D-maximum-sum-with-exactly-k-elements.py)
 
 ### Medium
 + [2. Add Two Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2%5D-add-two-numbers.py)
@@ -187,6 +188,7 @@
 + [1630. Arithmetic Subarrays](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1630%5D-arithmetic-subarrays.py)
 + [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1689%5D-partitioning-into-minimum-number-of-deci-binary-numbers.py)
 + [1828. Queries on Number of Points Inside a Circle](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1828%5D-queries-on-number-of-points-inside-a-circle.py)
++ [2140. Solving Questions With Brainpower](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2140%5D-solving-questions-with-brainpower.py)
 + [2149. Rearrange Array Elements by Sign](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2149%5D-rearrange-array-elements-by-sign.py)
 + [2221. Find Triangular Sum of an Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2221%5D-find-triangular-sum-of-an-array.py)
 + [2300. Successful Pairs of Spells and Potions](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2300%5D-successful-pairs-of-spells-and-potions.py)
