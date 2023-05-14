@@ -198,6 +198,7 @@
 + [2405. Optimal Partition of String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2405%5D-optimal-partition-of-string.py)
 + [2439. Minimize Maximum of Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2439%5D-minimize-maximum-of-array.py)
 + [2442. Count Number of Distinct Integers After Reverse Operations](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2442%5D-count-number-of-distinct-integers-after-reverse-operations.py)
++ [2466. Count Ways To Build Good Strings](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2466%5D-count-ways-to-build-good-strings.py)
 + [2545. Sort the Students by Their Kth Score](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2545%5D-sort-the-students-by-their-kth-score.py)
 
 ### Hard
@@ -209,6 +210,7 @@
 + [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1579%5D-remove-max-number-of-edges-to-keep-graph-fully-traversable.py)
 + [1639. Number of Ways to Form a Target String Given a Dictionary](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1639%5D-number-of-ways-to-form-a-target-string-given-a-dictionary.py)
 + [1697. Checking Existence of Edge Length Limited Paths](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1697%5D-checking-existence-of-edge-length-limited-paths.py)
++ [1799. Maximize Score After N Operations](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1799%5D-maximize-score-after-n-operations.py)
 + [1857. Largest Color Value in a Directed Graph](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1857%5D-largest-color-value-in-a-directed-graph.py)
 + [1964. Find the Longest Valid Obstacle Course at Each Position](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1964%5D-find-the-longest-valid-obstacle-course-at-each-position.py)
 + [2218. Maximum Value of K Coins From Piles](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2218%5D-maximum-value-of-k-coins-from-piles.py)
