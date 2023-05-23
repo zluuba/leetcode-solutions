@@ -48,6 +48,7 @@
 + [589. N-ary Tree Preorder Traversal](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B589%5D-n-ary-tree-preorder-traversal.py)
 + [605. Can Place Flowers](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B605%5D-can-place-flowers.py)
 + [617. Merge Two Binary Trees](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B617%5D-merge-two-binary-trees.py)
++ [703. Kth Largest Element in a Stream](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B703%5D-kth-largest-element-in-a-stream.py)
 + [704. Binary Search](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B704%5D-binary-search.py)
 + [709. To Lower Case](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B709%5D-to-lower-case.py)
 + [724. Find Pivot Index](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B724%5D-find-pivot-index.py)
