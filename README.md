@@ -208,6 +208,7 @@
 + [2439. Minimize Maximum of Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2439%5D-minimize-maximum-of-array.py)
 + [2442. Count Number of Distinct Integers After Reverse Operations](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2442%5D-count-number-of-distinct-integers-after-reverse-operations.py)
 + [2466. Count Ways To Build Good Strings](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2466%5D-count-ways-to-build-good-strings.py)
++ [2542. Maximum Subsequence Score](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2542%5D-maximum-subsequence-score.py)
 + [2545. Sort the Students by Their Kth Score](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2545%5D-sort-the-students-by-their-kth-score.py)
 
 ### Hard
