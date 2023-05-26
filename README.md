@@ -86,6 +86,7 @@
 + [1528. Shuffle String](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1528%5D-shuffle-string.py)
 + [1539. Kth Missing Positive Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1539%5D-kth-missing-positive-number.py)
 + [1572. Matrix Diagonal Sum](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1572%5D-matrix-diagonal-sum.py)
++ [1603. Design Parking System](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1603%5D-design-parking-system.py)
 + [1614. Maximum Nesting Depth of the Parentheses](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1614%5D-maximum-nesting-depth-of-the-parantheses.py)
 + [1672. Richest Customer Wealth](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1672%5D-richest-customer-wealth.py)
 + [1678. Goal Parser Interpretation](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1678%5D-goal-parser-interpretation.py)
@@ -184,6 +185,7 @@
 + [994. Rotting Oranges](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B994%5D-rotting-oranges.py)
 + [1020. Number of Enclaves](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1020%5D-number-of-enclaves.py)
 + [1035. Uncrossed Lines](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1035%5D-uncrossed-lines.py)
++ [1140. Stone Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1140%5D-stone-game-ii.py)
 + [1143. Longest Common Subsequence](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1143%5D-longest-common-subsequence.py)
 + [1254. Number of Closed Islands](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1254%5D-number-of-closed-islands.py)
 + [1302. Deepest Leaves Sum](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1302%5D-deepest-leaves-sum.py)
@@ -247,6 +249,7 @@
 + [1141. User Activity for the Past 30 Days I](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1141%5D-user-activity-for-the-past-30-days-i.sql)
 + [1148. Article Views I](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1148%5D-article-views-i.sql)
 + [1158. Market Analysis I](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1158%5D-market-analysis-i.sql)
++ [1378. Replace Employee ID With The Unique Identifier](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1378%5D-replace-employee-id-with-the-unique-identifier.sql)
 + [1393. Capital Gain/Loss](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1393%5D-capital-gain-loss.sql)
 + [1407. Top Travellers](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1407%5D-top-travellers.sql)
 + [1484. Group Sold Products By The Date](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1484%5D-group-sold-products-by-the-date.sql)
@@ -254,6 +257,7 @@
 + [1581. Customer Who Visited but Did Not Make Any Transactions](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1581%5D-customer-who-visited-but-did-not-make-any-transactions.sql)
 + [1587. Bank Account Summary II](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1587%5D-bank-account-summary-ii.sql)
 + [1667. Fix Names in a Table](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1667%5D-fix-names-ib-a-table.sql)
++ [1683. Invalid Tweets](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1683%5D-invalid-tweets.sql)
 + [1693. Daily Leads and Partners](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1693%5D-daily-leads-and-partners.sql)
 + [1729. Find Followers Count](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1729%5D-find-followers-count.sql)
 + [1741. Find Total Time Spent by Each Employee](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1741%5D-find-total-time-spent-by-each-employee.sql)
@@ -263,6 +267,7 @@
 + [1873. Calculate Special Bonus](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1873%5D-calculate-special-bonus.sql)
 + [1890. The Latest Login in 2020](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1890%5D-the-latest-login-in-2020.sql)
 + [1965. Employees With Missing Information](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1965%5D-employees-with-missing-information.sql)
++ [2356. Number of Unique Subjects Taught by Each Teacher](https://github.com/zluuba/leetcode/blob/main/SQL/%5B2356%5D-number-of-unique-subjects-taught-by-each-teacher.sql)
 
 <br>
 
