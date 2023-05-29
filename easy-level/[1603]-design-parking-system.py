@@ -23,7 +23,7 @@
 # parkingSystem.addCar(3); // return false because there is no available slot for a small car
 # parkingSystem.addCar(1); // return false because there is no available slot for a big car. It is already occupied.
 
-# --------------- Runtime 141 ms, beats 37.51%. Memory 16.8MB, beats 13.71% ---------------
+# --------------- Runtime 132 ms, beats 84.55%. Memory 16.8MB, beats 15.89% ---------------
 
 # Your ParkingSystem object will be instantiated and called as such:
 # obj = ParkingSystem(big, medium, small)
