@@ -94,6 +94,7 @@
 + [1684. Count the Number of Consistent Strings](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1684%5D-count-the-number-of-consistent-strings.py)
 + [1688. Count of Matches in Tournament](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1688%5D-count-of-matches-in-tournament.py)
 + [1720. Decode XORed Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1720%5D-decode-XORed-array.py)
++ [1732. Find the Highest Altitude](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1732%5D-find-the-highest-altitude.py)
 + [1768. Merge Strings Alternately](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1768%5D-merge-strings-alternately.py)
 + [1791. Find Center of Star Graph](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1791%5D-find-center-of-star-graph.py)
 + [1816. Truncate Sentence](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1816%5D-truncate-sentence.py)
@@ -133,6 +134,7 @@
 + [2553. Separate the Digits in an Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2553%5D-separate-the-digits-in-an-array.py)
 + [2574. Left and Right Sum Differences](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2574%5D-left-and-right-sum-differences.py)
 + [2656. Maximum Sum With Exactly K Elements ](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2656%5D-maximum-sum-with-exactly-k-elements.py)
++ [2710. Remove Trailing Zeros From a String](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2710%5D-remove-trailing-zeros-from-a-string.py)
 
 ### Medium
 + [2. Add Two Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2%5D-add-two-numbers.py)
@@ -193,6 +195,7 @@
 + [1254. Number of Closed Islands](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1254%5D-number-of-closed-islands.py)
 + [1302. Deepest Leaves Sum](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1302%5D-deepest-leaves-sum.py)
 + [1372. Longest ZigZag Path in a Binary Tree](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1372%5D-longest-zigzag-path-in-a-binary-tree.py)
++ [1396. Design Underground System](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1396%5D-design-underground-system.py)
 + [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1456%5D-maximum-number-of-vowels-in-a-substring-of-given-length.py)
 + [1476. Subrectangle Queries](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1476%5D-subrectangle-queries.py)
 + [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1498%5D-number-of-subsequences-that-satisfy-the-given-sum-condition.py)
