@@ -50,5 +50,4 @@ class Solution:
 
 class Solution2:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
-        maximum = max(candies)
-        return [True if candy + extraCandies >= maximum else False for candy in candies]
+        return [True if candy + extraCandies >= max(candies) else False for candy in candies]
