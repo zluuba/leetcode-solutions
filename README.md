@@ -72,6 +72,7 @@
 + [1071. Greatest Common Divisor of Strings](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1071%5D-greatest-common-divisor-of-strings.py)
 + [1108. Defanging an IP Address](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1108%5D-defanging-an-ip-address.py)
 + [1221. Split a String in Balanced Strings](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1221%5D-split-a-string-in-balanced-strings.py)
++ [1232. Check If It Is a Straight Line](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1232%5D-check-if-it-is-a-straight-line.py)
 + [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1281%5D-subtract-the-product-and-sum-of-digits-of-an-integer.py)
 + [1290. Convert Binary Number in a Linked List to Integer](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1290%5D-binary-number-in-a-linked-list-to-integer.py)
 + [1309. Decrypt String from Alphabet to Integer Mapping](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1309%5D-decrypt-string-from-alphabet-to-integer-mapping.py)
