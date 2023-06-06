@@ -86,6 +86,7 @@
 + [1470. Shuffle the Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1470%5D-shuffle-the-array.py)
 + [1480. Running Sum of 1d Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1480%5D-running-sum-of-1d-array.py)
 + [1491. Average Salary Excluding the Minimum and Maximum Salary](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1491%5D-average-salary-excluding-the-minimum-and-maximum-salary.py)
++ [1502. Can Make Arithmetic Progression From Sequence](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1502%5D-can-make-arithmetic-progression-from-sequence.py)
 + [1512. Number of Good Pairs](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1512%5D-number-of-good-pairs.py)
 + [1523. Count Odd Numbers in an Interval Range](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1523%5D-count-odd-numbers-in-an-interval-range.py)
 + [1528. Shuffle String](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1528%5D-shuffle-string.py)
