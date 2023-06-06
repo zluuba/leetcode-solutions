@@ -1,2 +1,6 @@
+# PyCharm, MacOS files
 .idea/
 .DS_Store
+
+# permanent local changes
+common.py
