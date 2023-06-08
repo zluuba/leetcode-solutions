@@ -81,6 +81,7 @@
 + [1313. Decompress Run-Length Encoded List](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1313%5D-decompress-run-length-encoded-list.py)
 + [1323. Maximum 69 Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1323%5D-maximum-69-number.py)
 + [1342. Number of Steps to Reduce a Number to Zero](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1342%5D-number-of-steps-to-reduce-a-number-to-zero.py)
++ [1351. Count Negative Numbers in a Sorted Matrix](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1351%5D-count-negative-numbers-in-a-sorted-matrix.py)
 + [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1365%5D-how-many-numbers-are-smaller-than-the-current-number.py)
 + [1389. Create Target Array in the Given Order](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1389%5D-create-target-array-in-the-given-order.py)
 + [1431. Kids With the Greatest Number of Candies](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1431%5D-kids-with-the-greatest-number-of-candies.py)
