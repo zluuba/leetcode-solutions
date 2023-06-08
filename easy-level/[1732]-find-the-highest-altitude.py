@@ -31,15 +31,14 @@ class Solution:
 
 
 # Alternative solution - using array
-# --------------- Runtime 43 ms, beats 72.74%. Memory 16.4MB, beats 15.35% ---------------
+# --------------- Runtime 48 ms, beats 62.86%. Memory 16.1MB, beats 83.72% ---------------
 
 class Solution2:
     def largestAltitude(self, gain: List[int]) -> int:
-        curr = 0
-        altitudes = [curr]
+        altitudes = [0]
 
         for i in range(len(gain)):
-            curr += gain[i]
+            curr = altitudes[-1] + gain[i]
             altitudes.append(curr)
 
         return max(altitudes)
