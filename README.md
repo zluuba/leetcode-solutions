@@ -182,6 +182,7 @@
 + [299. Bulls and Cows](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B299%5D-bulls-and-cows.py)
 + [300. Longest Increasing Subsequence](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B300%5D-longest-increasing-subsequence.py)
 + [319. Bulb Switcher](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B319%5D-bulb-switcher.py)
++ [334. Increasing Triplet Subsequence](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B334%5D-increasing-triplet-subsequence.py)
 + [347. Top K Frequent Elements](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B347%5D-top-k-frequent-elements.py)
 + [394. Decode String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B394%5D-decode-string.py)
 + [424. Longest Repeating Character Replacement](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B424%5D-longest-repeating-character-replacement.py)
