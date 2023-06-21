@@ -259,6 +259,7 @@
 + [1964. Find the Longest Valid Obstacle Course at Each Position](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1964%5D-find-the-longest-valid-obstacle-course-at-each-position.py)
 + [2218. Maximum Value of K Coins From Piles](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2218%5D-maximum-value-of-k-coins-from-piles.py)
 + [2306. Naming a Company](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2306%5D-naming-a-company.py)
++ [2448. Minimum Cost to Make Array Equal](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B2448%5D-minimum-cost-to-make-array-equal.py)
 
 ### SQL Section
 + [175. Combine Two Tables](https://github.com/zluuba/leetcode/blob/main/SQL/%5B175%5D-combine-two-tables.sql)
