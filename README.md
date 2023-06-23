@@ -120,6 +120,7 @@
 + [1920. Build Array from Permutation](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1920%5D-build-array-from-permutation.py)
 + [1929. Concatenation of Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1929%5D-concatenation-of-array.py)
 + [1967. Number of Strings That Appear as Substrings in Word](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1967%5D-number-of-strings-that-appear-as-substrings-in-word.py)
++ [2000. Reverse Prefix of Word](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2000%5D-reverse-prefix-of-word.py)
 + [2006. Count Number of Pairs With Absolute Difference K](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2006%5D-count-number-of-pairs-with-absolute-difference-k.py)
 + [2011. Final Value of Variable After Performing Operations](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2011%5D-final-value-of-variable-after-performing-operations.py)
 + [2103. Rings and Rods](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2103%5D-rings-and-rods.py)
@@ -148,6 +149,7 @@
 + [2574. Left and Right Sum Differences](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2574%5D-left-and-right-sum-differences.py)
 + [2656. Maximum Sum With Exactly K Elements ](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2656%5D-maximum-sum-with-exactly-k-elements.py)
 + [2710. Remove Trailing Zeros From a String](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2710%5D-remove-trailing-zeros-from-a-string.py)
++ [2733. Neither Minimum nor Maximum](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2733%5D-neither-minimum-nor-maximum.py)
 
 ### Medium
 + [2. Add Two Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2%5D-add-two-numbers.py)
