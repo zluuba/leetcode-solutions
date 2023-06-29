@@ -284,6 +284,7 @@
 + [608. Tree Node](https://github.com/zluuba/leetcode/blob/main/SQL/%5B608%5D-tree-node.sql)
 + [627. Swap Salary](https://github.com/zluuba/leetcode/blob/main/SQL/%5B627%5D-swap-salary.sql)
 + [1050. Actors and Directors Who Cooperated At Least Three Times](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1050%5D-actors-and-directors-who-cooperated-at-least-three-times.sql)
++ [1068. Product Sales Analysis I](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1068%5D-product-sales-analysis-i.py)
 + [1084. Sales Analysis III](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1084%5D-sales-analysis-iii.sql)
 + [1141. User Activity for the Past 30 Days I](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1141%5D-user-activity-for-the-past-30-days-i.sql)
 + [1148. Article Views I](https://github.com/zluuba/leetcode/blob/main/SQL/%5B1148%5D-article-views-i.sql)
