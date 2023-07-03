@@ -66,6 +66,7 @@
 + [804. Unique Morse Code Words](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B804%5D-unique-morse-code-words.py)
 + [832. Flipping an Image](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B832%5D-flipping-an-image.py)
 + [844. Backspace String Compare](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B844%5D-backspace-string-compare.py)
++ [859. Buddy Strings](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B859%5D-buddy-strings.py)
 + [876. Middle of the Linked List](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B876%5D-middle-of-the-linked-list.py)
 + [905. Sort Array By Parity](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B905%5D-sort-array-by-parity.py)
 + [933. Number of Recent Calls](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B933%5D-number-of-recent-calls.py)
