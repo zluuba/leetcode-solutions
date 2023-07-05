@@ -225,6 +225,7 @@
 + [1396. Design Underground System](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1396%5D-design-underground-system.py)
 + [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1456%5D-maximum-number-of-vowels-in-a-substring-of-given-length.py)
 + [1476. Subrectangle Queries](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1476%5D-subrectangle-queries.py)
++ [1493. Longest Subarray of 1's After Deleting One Element](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1493%5D-longest-subarray-of-1s-after-deleting-one-element.py)
 + [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1498%5D-number-of-subsequences-that-satisfy-the-given-sum-condition.py)
 + [1557. Minimum Number of Vertices to Reach All Nodes](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1557%5D-minimum-number-of-vertices-to-reach-all-nodes.py)
 + [1561. Maximum Number of Coins You Can Get](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1561%5D-maximum-number-of-coins-you-can-get.py)
