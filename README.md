@@ -234,6 +234,7 @@
 + [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1689%5D-partitioning-into-minimum-number-of-deci-binary-numbers.py)
 + [1721. Swapping Nodes in a Linked List](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1721%5D-swapping-nodes-in-a-linked-list.py)
 + [1828. Queries on Number of Points Inside a Circle](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1828%5D-queries-on-number-of-points-inside-a-circle.py)
++ [2024. Maximize the Confusion of an Exam](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2024%5D-maximize-the-confusion-of-an-exam.py)
 + [2090. K Radius Subarray Averages](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2090%5D-k-radius-subarray-averages.py)
 + [2101. Detonate the Maximum Bombs](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2101%5D-detonate-the-maximum-bombs.py)
 + [2130. Maximum Twin Sum of a Linked List](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2130%5D-maximum-twin-sum-of-a-linked-list.py)
