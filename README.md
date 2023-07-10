@@ -23,6 +23,7 @@
 + [88. Merge Sorted Array](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B88%5D-merge-sorted-array.py)
 + [101. Symmetric Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B101%5D-symmetric-tree.py)
 + [104. Maximum Depth of Binary Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B104%5D-maximum-depth-of-binary-tree.py)
++ [111. Minimum Depth of Binary Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B111%5D-minimum-depth-of-binary-tree.py)
 + [118. Pascal's Triangle](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B118%5D-pascals-triangle.py)
 + [119. Pascal's Triangle II](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B118%5D-pascals-triangle-ii.py)
 + [121. Best Time to Buy and Sell Stock](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B121%5D-best-time-to-buy-and-sell-stock.py)
