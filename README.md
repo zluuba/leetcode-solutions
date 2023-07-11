@@ -214,6 +214,7 @@
 + [934. Shortest Bridge](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B934%5D-shortest-bridge.py)
 + [946. Validate Stack Sequences](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B946%5D-validate-stack-sequences.py)
 + [994. Rotting Oranges](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B994%5D-rotting-oranges.py)
++ [1004. Max Consecutive Ones III](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1004%5D-max-consecutive-ones-iii.py)
 + [1020. Number of Enclaves](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1020%5D-number-of-enclaves.py)
 + [1035. Uncrossed Lines](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1035%5D-uncrossed-lines.py)
 + [1091. Shortest Path in Binary Matrix](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1091%5D-shortest-path-in-binary-matrix.py)
