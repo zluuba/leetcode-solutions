@@ -220,6 +220,7 @@
 + [1091. Shortest Path in Binary Matrix](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1091%5D-shortest-path-in-binary-matrix.py)
 + [1140. Stone Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1140%5D-stone-game-ii.py)
 + [1143. Longest Common Subsequence](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1143%5D-longest-common-subsequence.py)
++ [1218. Longest Arithmetic Subsequence of Given Difference](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1218%5D-longest-arithmetic-subsequence-of-given-difference.py)
 + [1254. Number of Closed Islands](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1254%5D-number-of-closed-islands.py)
 + [1302. Deepest Leaves Sum](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1302%5D-deepest-leaves-sum.py)
 + [1318. Minimum Flips to Make a OR b Equal to c](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1318%5D-minimum-flips-to-make-a-or-b-equal-to-c.py)
