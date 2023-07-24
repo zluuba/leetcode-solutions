@@ -166,6 +166,7 @@
 + [24. Swap Nodes in Pairs](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B24%5D-swap-nodes-in-pairs.py)
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
 + [46. Permutations](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B46%5D-permutations.py)
++ [50. Pow(x, n)](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B50%5D-powx-n.py)
 + [54. Spiral Matrix](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B54%5D-spiral-matrix.py)
 + [55. Jump Game](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B55%5D-jump-game.py)
 + [59. Spiral Matrix II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B59%5D-spiral-matrix-ii.py)
