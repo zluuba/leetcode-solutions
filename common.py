@@ -1,3 +1,6 @@
+from string import ascii_lowercase, digits
+
+
 def get_solution_url(level, title):
     """
     Makes url for solution in following format:
@@ -5,19 +8,22 @@ def get_solution_url(level, title):
     """
 
     levels = {1: 'easy-level', 2: 'medium-level', 3: 'hard-level', 4: 'SQL'}
+    correct_chars = ascii_lowercase + digits + '-'
 
-    url = 'https://github.com/zluuba/leetcode/blob/main/'
-    url += levels[level] + '/'
+    url = f'https://github.com/zluuba/leetcode/blob/main/{levels[level]}/'
 
     task_num, task_name = title.split('. ')
     url += f'%5B{task_num}%5D'
 
     new_name = '-'.join(map(lambda word: word.lower(), task_name.split()))
-    url += f'-{new_name}.py'
+    filtered_name = ''.join(filter(lambda char: char in correct_chars, new_name))
+    url += f'-{filtered_name}.py'
+
+    url = url.replace("'", "")
 
     return url
 
 
 level = 2
-name = '235. Lowest Common Ancestor of a Binary Search Tree'
+name = ""
 print(get_solution_url(level, name))
