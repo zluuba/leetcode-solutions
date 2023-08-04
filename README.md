@@ -180,6 +180,7 @@
 + [120. Triangle](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B120%5D-triangle.py)
 + [122. Best Time to Buy and Sell Stock II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B122%5D-best-time-to-buy-and-sell-stock-ii.py)
 + [133. Clone Graph](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B133%5D-clone-graph.py)
++ [139. Word Break](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B139%5D-word-break.py)
 + [142. Linked List Cycle II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B142%5D-linked-list-cycle-ii.py)
 + [151. Reverse Words in a String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B151%5D-reverse-words-in-a-string.py)
 + [167. Two Sum II - Input Array Is Sorted](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B167%5D-two-sum-ii-input-array-is-sorted.py)
