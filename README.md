@@ -165,6 +165,7 @@
 + [17. Letter Combinations of a Phone Number](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B17%5D-letter-combinations-of-a-phone-number.py)
 + [19. Remove Nth Node From End of List](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B19%5D-remove-nth-node-from-end-of-list.py)
 + [24. Swap Nodes in Pairs](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B24%5D-swap-nodes-in-pairs.py)
++ [33. Search in Rotated Sorted Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B33%5D-search-in-rotated-sorted-array.py)
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
 + [46. Permutations](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B46%5D-permutations.py)
 + [50. Pow(x, n)](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B50%5D-powx-n.py)
