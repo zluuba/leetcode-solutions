@@ -11,6 +11,18 @@
 #   AB -> 28
 #   ...
 
+# Example 1:
+# Input: columnNumber = 1
+# Output: "A"
+
+# Example 2:
+# Input: columnNumber = 28
+# Output: "AB"
+
+# Example 3:
+# Input: columnNumber = 701
+# Output: "ZY"
+
 # --------------- Runtime 41 ms, beats 59.31%. Memory 16.3MB, beats 63.20% ---------------
 import string
 
