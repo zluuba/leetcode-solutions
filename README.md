@@ -30,6 +30,7 @@
 + [119. Pascal's Triangle II](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B118%5D-pascals-triangle-ii.py)
 + [121. Best Time to Buy and Sell Stock](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B121%5D-best-time-to-buy-and-sell-stock.py)
 + [136. Single Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B136%5D-single-number.py)
++ [168. Excel Sheet Column Title](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B168%5D-excel-sheet-column-title.py)
 + [169. Majority Element](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B169%5D-majority-element.py)
 + [171. Excel Sheet Column Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B171%5D-excel-sheet-column-number.py)
 + [190. Reverse Bits](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B190%5D-reverse-bits.py)
