@@ -273,6 +273,7 @@
 
 ### Hard
 + [4. Median of Two Sorted Arrays](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B4%5D-median-of-two-sorted-arrays.py)
++ [68. Text Justification](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B68%5D-text-justification.py)
 + [839. Similar String Groups](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B839%5D-similar-string-groups.py)
 + [879. Profitable Schemes](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B879%5D-profitable-schemes.py)
 + [1312. Minimum Insertion Steps to Make a String Palindrome](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1312%5D-minimum-insertion-steps-to-make-a-string-palindrome.py)
