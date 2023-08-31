@@ -160,6 +160,9 @@
 + [2656. Maximum Sum With Exactly K Elements ](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2656%5D-maximum-sum-with-exactly-k-elements.py)
 + [2710. Remove Trailing Zeros From a String](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2710%5D-remove-trailing-zeros-from-a-string.py)
 + [2733. Neither Minimum nor Maximum](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2733%5D-neither-minimum-nor-maximum.py)
++ [2769. Find the Maximum Achievable Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2769%5D-find-the-maximum-achievable-number.py)
++ [2798. Number of Employees Who Met the Target](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2798%5D-number-of-employees-who-met-the-target.py)
++ [2824. Count Pairs Whose Sum is Less than Target](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2824%5D-count-pairs-whose-sum-is-less-than-target.py)
 
 ### Medium
 + [2. Add Two Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2%5D-add-two-numbers.py)
