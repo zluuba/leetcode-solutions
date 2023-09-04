@@ -31,6 +31,7 @@
 + [121. Best Time to Buy and Sell Stock](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B121%5D-best-time-to-buy-and-sell-stock.py)
 + [125. Valid Palindrome](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B125%5D-valid-palindrome.py)
 + [136. Single Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B136%5D-single-number.py)
++ [141. Linked List Cycle](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B141%5D-linked-list-cycle.py)
 + [168. Excel Sheet Column Title](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B168%5D-excel-sheet-column-title.py)
 + [169. Majority Element](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B169%5D-majority-element.py)
 + [171. Excel Sheet Column Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B171%5D-excel-sheet-column-number.py)
