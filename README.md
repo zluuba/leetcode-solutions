@@ -244,6 +244,7 @@
 + [1143. Longest Common Subsequence](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1143%5D-longest-common-subsequence.py)
 + [1218. Longest Arithmetic Subsequence of Given Difference](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1218%5D-longest-arithmetic-subsequence-of-given-difference.py)
 + [1254. Number of Closed Islands](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1254%5D-number-of-closed-islands.py)
++ [1282. Group the People Given the Group Size They Belong To](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1282%5D-group-the-people-given-the-group-size-they-belong-to.py)
 + [1302. Deepest Leaves Sum](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1302%5D-deepest-leaves-sum.py)
 + [1318. Minimum Flips to Make a OR b Equal to c](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1318%5D-minimum-flips-to-make-a-or-b-equal-to-c.py)
 + [1372. Longest ZigZag Path in a Binary Tree](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1372%5D-longest-zigzag-path-in-a-binary-tree.py)
