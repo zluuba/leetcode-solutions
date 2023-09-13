@@ -41,6 +41,7 @@
 + [203. Remove Linked List Elements](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B203%5D-remove-linked-list-elements.py)
 + [205. Isomorphic Strings](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B205%5D-isomorphic-strings.py)
 + [206. Reverse Linked List](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B206%5D-reverse-linked-list.py)
++ [217. Contains Duplicate](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B217%5D-contains-duplicate.py)
 + [226. Invert Binary Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B226%5D-invert-binary-tree.py)
 + [228. Summary Ranges](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B228%5D-summary-ranges.py)
 + [231. Power of Two](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B231%5D-power-of-two.py)
@@ -280,10 +281,12 @@
 + [2466. Count Ways To Build Good Strings](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2466%5D-count-ways-to-build-good-strings.py)
 + [2542. Maximum Subsequence Score](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2542%5D-maximum-subsequence-score.py)
 + [2545. Sort the Students by Their Kth Score](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2545%5D-sort-the-students-by-their-kth-score.py)
++ [2807. Insert Greatest Common Divisors in Linked List](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2807%5D-insert-greatest-common-divisors-in-linked-list.py)
 
 ### Hard
 + [4. Median of Two Sorted Arrays](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B4%5D-median-of-two-sorted-arrays.py)
 + [68. Text Justification](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B68%5D-text-justification.py)
++ [135. Candy](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B135%5D-candy.py)
 + [839. Similar String Groups](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B839%5D-similar-string-groups.py)
 + [879. Profitable Schemes](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B879%5D-profitable-schemes.py)
 + [1312. Minimum Insertion Steps to Make a String Palindrome](https://github.com/zluuba/leetcode/blob/main/hard-level/%5B1312%5D-minimum-insertion-steps-to-make-a-string-palindrome.py)
