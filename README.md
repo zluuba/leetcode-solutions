@@ -96,6 +96,7 @@
 + [1309. Decrypt String from Alphabet to Integer Mapping](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1309%5D-decrypt-string-from-alphabet-to-integer-mapping.py)
 + [1313. Decompress Run-Length Encoded List](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1313%5D-decompress-run-length-encoded-list.py)
 + [1323. Maximum 69 Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1323%5D-maximum-69-number.py)
++ [1337. The K Weakest Rows in a Matrix](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1337%5D-the-k-weakest-rows-in-a-matrix.py)
 + [1342. Number of Steps to Reduce a Number to Zero](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1342%5D-number-of-steps-to-reduce-a-number-to-zero.py)
 + [1351. Count Negative Numbers in a Sorted Matrix](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1351%5D-count-negative-numbers-in-a-sorted-matrix.py)
 + [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1365%5D-how-many-numbers-are-smaller-than-the-current-number.py)
