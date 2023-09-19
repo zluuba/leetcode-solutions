@@ -33,3 +33,18 @@ class Solution:
             tmp = nums[tmp]
             if p1 == tmp:
                 return tmp
+
+
+# Alternative solution - just dict it
+# --------------- Runtime 495 ms, beats 97.77%. Memory 34.9MB, beats 10.12% ---------------
+
+class Solution2:
+    def findDuplicate(self, nums: List[int]) -> int:
+        dictionary = dict()
+
+        for num in nums:
+            if num in dictionary:
+                return num
+
+            dictionary[num] = 1
+
