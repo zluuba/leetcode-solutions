@@ -167,6 +167,7 @@
 + [2769. Find the Maximum Achievable Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2769%5D-find-the-maximum-achievable-number.py)
 + [2798. Number of Employees Who Met the Target](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2798%5D-number-of-employees-who-met-the-target.py)
 + [2824. Count Pairs Whose Sum is Less than Target](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2824%5D-count-pairs-whose-sum-is-less-than-target.py)
++ [2859. Sum of Values at Indices With K Set Bits](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B2859%5D-sum-of-values-at-indices-with-k-set-bits.py)
 
 ### Medium
 + [2. Add Two Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2%5D-add-two-numbers.py)
@@ -270,6 +271,7 @@
 + [2130. Maximum Twin Sum of a Linked List](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2130%5D-maximum-twin-sum-of-a-linked-list.py)
 + [2140. Solving Questions With Brainpower](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2140%5D-solving-questions-with-brainpower.py)
 + [2149. Rearrange Array Elements by Sign](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2149%5D-rearrange-array-elements-by-sign.py)
++ [2181. Merge Nodes in Between Zeros](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2181%5D-merge-nodes-in-between-zeros.py)
 + [2221. Find Triangular Sum of an Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2221%5D-find-triangular-sum-of-an-array.py)
 + [2300. Successful Pairs of Spells and Potions](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2300%5D-successful-pairs-of-spells-and-potions.py)
 + [2336. Smallest Number in Infinite Set](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2336%5D-smallest-number-in-infinite-set.py)
