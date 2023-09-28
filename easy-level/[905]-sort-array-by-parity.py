@@ -22,3 +22,14 @@ class Solution:
     def sortArrayByParity(self, nums: List[int]) -> List[int]:
         nums.sort(key=lambda num: num % 2 != 0)
         return nums
+
+
+# Alternative solution - list comprehension: fast, but fat
+# --------------- Runtime 70 ms, beats 88.10%. Memory 17MB, beats 96.40% ---------------
+
+class Solution2:
+    def sortArrayByParity(self, nums: List[int]) -> List[int]:
+        even_nums = [num for num in nums if num % 2 == 0]
+        odd_nums = [num for num in nums if num % 2 != 0]
+
+        return even_nums + odd_nums
