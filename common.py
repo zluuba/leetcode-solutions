@@ -19,7 +19,7 @@ def get_solution_url(level, title):
     filtered_name = ''.join(filter(lambda char: char in correct_chars, new_name))
     url += f'-{filtered_name}.py'
 
-    url = url.replace("'", "")
+    url = url.replace("'", "").replace("---", "-")
 
     return url
 
