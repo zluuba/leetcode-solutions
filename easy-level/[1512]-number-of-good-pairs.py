@@ -17,16 +17,18 @@
 # Input: nums = [1,2,3]
 # Output: 0
 
-# --------------- Runtime 38 ms, beats 57.67%. Memory 13.8MB, beats 48.73% ---------------
+# --------------- Runtime 36 ms, beats 82.94%. Memory 16.1MB, beats 97.10% ---------------
 from typing import List
 
 
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
+        good_pairs_count = 0
         length = len(nums)
-        counter = 0
-        for i in range(0, length - 1):
-            for j in range(i, length):
-                if nums[i] == nums[j] and i < j:
-                    counter += 1
-        return counter
+
+        for i in range(length):
+            for j in range(i + 1, length):
+                if nums[i] == nums[j]:
+                    good_pairs_count += 1
+
+        return good_pairs_count
