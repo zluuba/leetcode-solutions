@@ -73,6 +73,7 @@
 + [703. Kth Largest Element in a Stream](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B703%5D-kth-largest-element-in-a-stream.py)
 + [704. Binary Search](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B704%5D-binary-search.py)
 + [705. Design HashSet](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B705%5D-design-hashset.py)
++ [706. Design HashMap](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B706%5D-design-hashmap.py)
 + [709. To Lower Case](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B709%5D-to-lower-case.py)
 + [724. Find Pivot Index](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B724%5D-find-pivot-index.py)
 + [733. Flood Fill](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B733%5D-flood-fill.py)
