@@ -216,6 +216,7 @@
 + [189. Rotate Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B189%5D-rotate-array.py)
 + [198. House Robber](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B198%5D-house-robber.py)
 + [200. Number of Islands](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B200%5D-number-of-islands.py)
++ [229. Majority Element II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B229%5D-majority-element-ii.py)
 + [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B235%5D-lowest-common-ancestor-of-a-binary-search-tree.py)
 + [238. Product of Array Except Self](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B238%5D-product-of-array-except-self.py)
 + [287. Find the Duplicate Number](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B287%5D-find-the-duplicate-number.py)
