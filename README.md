@@ -183,6 +183,7 @@
 ### Medium
 + [2. Add Two Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2%5D-add-two-numbers.py)
 + [3. Longest Substring Without Repeating Chpraracters](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B3%5D-longest-substring-without-repeating-characters.py)
++ [5. Longest Palindromic Substring](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B5%5D-longest-palindromic-substring.py)
 + [7. Reverse Integer](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B7%5D-reverse-integer.py)
 + [8. String to Integer (atoi)](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B8%5D-string-to-integer-atoi.py)
 + [11. Container With Most Water](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B11%5D-container-with-most-water.py)
@@ -193,6 +194,7 @@
 + [22. Generate Parentheses](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B22%5D-generate-parentheses.py)
 + [24. Swap Nodes in Pairs](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B24%5D-swap-nodes-in-pairs.py)
 + [33. Search in Rotated Sorted Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B33%5D-search-in-rotated-sorted-array.py)
++ [34. Find First and Last Position of Element in Sorted Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B34%5D-find-first-and-last-position-of-element-in-sorted-array.py)
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
 + [46. Permutations](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B46%5D-permutations.py)
 + [48. Rotate Image](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B48%5D-rotate-image.py)
