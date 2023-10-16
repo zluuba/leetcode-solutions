@@ -24,12 +24,13 @@ class Solution:
         row = []
 
         for i in range(rowIndex + 1):
-            curr_row = [1] * (i + 1)
-            row_length = len(curr_row)
+            row_length = i + 1
+            curr_row = [1] * row_length
+
             if row_length > 2:
-                for j in range(row_length):
-                    if j != 0 and j != row_length - 1:
-                        curr_row[j] = row[j - 1] + row[j]
+                for j in range(1, row_length - 1):
+                    curr_row[j] = row[j - 1] + row[j]
+
             row = curr_row
 
         return row
@@ -43,12 +44,13 @@ class Solution2:
         triangle = []
 
         for i in range(rowIndex + 1):
-            row = [1] * (i + 1)
-            row_length = len(row)
+            row_length = i + 1
+            row = [1] * row_length
+
             if row_length > 2:
-                for j in range(row_length):
-                    if j != 0 and j != row_length - 1:
-                        row[j] = triangle[i-1][j - 1] + triangle[i-1][j]
+                for j in range(1, row_length - 1):
+                    row[j] = triangle[i-1][j - 1] + triangle[i-1][j]
+
             triangle.append(row)
 
         return triangle[-1]
