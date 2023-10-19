@@ -199,6 +199,7 @@
 + [45. Jump Game II](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B45%5D-jump-game-II.py)
 + [46. Permutations](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B46%5D-permutations.py)
 + [48. Rotate Image](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B48%5D-rotate-image.py)
++ [49. Group Anagrams](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B49%5D-group-anagrams.py)
 + [50. Pow(x, n)](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B50%5D-powx-n.py)
 + [54. Spiral Matrix](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B54%5D-spiral-matrix.py)
 + [55. Jump Game](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B55%5D-jump-game.py)
