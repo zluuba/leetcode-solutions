@@ -304,6 +304,7 @@
 + [2466. Count Ways To Build Good Strings](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2466%5D-count-ways-to-build-good-strings.py)
 + [2542. Maximum Subsequence Score](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2542%5D-maximum-subsequence-score.py)
 + [2545. Sort the Students by Their Kth Score](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2545%5D-sort-the-students-by-their-kth-score.py)
++ [2610. Convert an Array Into a 2D Array With Conditions](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2610%5D-convert-an-array-into-a-2d-array-with-conditions.py)
 + [2657. Find the Prefix Common Array of Two Arrays](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2657%5D-find-the-prefix-common-array-of-two-arrays.py)
 + [2807. Insert Greatest Common Divisors in Linked List](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2807%5D-insert-greatest-common-divisors-in-linked-list.py)
 
