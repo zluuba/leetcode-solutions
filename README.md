@@ -249,6 +249,7 @@
 + [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B714%5D-best-time-to-buy-and-sell-stock-with-transaction-fee.py)
 + [763. Partition Labels](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B763%5D-partition-labels.py)
 + [767. Reorganize String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B767%5D-reorganize-string.py)
++ [779. K-th Symbol in Grammar](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B779%5D-k-th-symbol-in-grammar.py)
 + [784. Letter Case Permutation](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B784%5D-letter-case-permutation.py)
 + [785. Is Graph Bipartite?](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B785%5D-is-graph-bipartite.py)
 + [837. New 21 Game](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B837%5D-new-21-game.py)
