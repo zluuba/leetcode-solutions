@@ -109,6 +109,7 @@
 + [1337. The K Weakest Rows in a Matrix](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1337%5D-the-k-weakest-rows-in-a-matrix.py)
 + [1342. Number of Steps to Reduce a Number to Zero](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1342%5D-number-of-steps-to-reduce-a-number-to-zero.py)
 + [1351. Count Negative Numbers in a Sorted Matrix](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1351%5D-count-negative-numbers-in-a-sorted-matrix.py)
++ [1356. Sort Integers by The Number of 1 Bits](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1356%5D-sort-integers-by-the-number-of-1-bits.py)
 + [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1365%5D-how-many-numbers-are-smaller-than-the-current-number.py)
 + [1389. Create Target Array in the Given Order](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1389%5D-create-target-array-in-the-given-order.py)
 + [1431. Kids With the Greatest Number of Candies](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1431%5D-kids-with-the-greatest-number-of-candies.py)
