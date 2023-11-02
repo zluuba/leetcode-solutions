@@ -63,6 +63,7 @@
 + [409. Longest Palindrome](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B409%5D-longest-palindrome.py)
 + [412. Fizz Buzz](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B412%5D-fizz-buzz.py)
 + [459. Repeated Substring Pattern](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B459%5D-repeated-substring-pattern.py)
++ [501. Find Mode in Binary Search Tree](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B501%5D-find-mode-in-binary-search-tree.py)
 + [509. Fibonacci Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B509%5D-fibonacci-number.py)
 + [530. Minimum Absolute Difference in BST](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B530%5D-minimum-absolute-difference-in-bst.py)
 + [557. Reverse Words in a String III](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B557%5D-reverse-words-in-a-string-iii.py)
