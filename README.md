@@ -294,6 +294,7 @@
 + [2149. Rearrange Array Elements by Sign](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2149%5D-rearrange-array-elements-by-sign.py)
 + [2181. Merge Nodes in Between Zeros](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2181%5D-merge-nodes-in-between-zeros.py)
 + [2221. Find Triangular Sum of an Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2221%5D-find-triangular-sum-of-an-array.py)
++ [2265. Count Nodes Equal to Average of Subtree](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2265%5D-count-nodes-equal-to-average-of-subtree.py)
 + [2300. Successful Pairs of Spells and Potions](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2300%5D-successful-pairs-of-spells-and-potions.py)
 + [2336. Smallest Number in Infinite Set](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2336%5D-smallest-number-in-infinite-set.py)
 + [2352. Equal Row and Column Pairs](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2352%5D-equal-row-and-column-pairs.py)
