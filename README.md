@@ -275,6 +275,7 @@
 + [1318. Minimum Flips to Make a OR b Equal to c](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1318%5D-minimum-flips-to-make-a-or-b-equal-to-c.py)
 + [1372. Longest ZigZag Path in a Binary Tree](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1372%5D-longest-zigzag-path-in-a-binary-tree.py)
 + [1396. Design Underground System](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1396%5D-design-underground-system.py)
++ [1441. Build an Array With Stack Operations](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1441%5D-build-an-array-with-stack-operations.py)
 + [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1456%5D-maximum-number-of-vowels-in-a-substring-of-given-length.py)
 + [1476. Subrectangle Queries](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1476%5D-subrectangle-queries.py)
 + [1493. Longest Subarray of 1's After Deleting One Element](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1493%5D-longest-subarray-of-1s-after-deleting-one-element.py)
