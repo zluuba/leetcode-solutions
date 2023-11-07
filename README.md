@@ -96,6 +96,7 @@
 + [989. Add to Array-Form of Integer](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B989%5D-add-to-array-form-of-integer.py)
 + [1021. Remove Outermost Parentheses](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1021%5D-remove-outermost-parantheses.py)
 + [1046. Last Stone Weight](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1046%5D-last-stone-weight.py)
++ [1051. Height Checker](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1051%5D-height-checker.py)
 + [1071. Greatest Common Divisor of Strings](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1071%5D-greatest-common-divisor-of-strings.py)
 + [1108. Defanging an IP Address](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1108%5D-defanging-an-ip-address.py)
 + [1137. N-th Tribonacci Number](https://github.com/zluuba/leetcode/blob/main/easy-level/%5B1137%5D-n-th-tribonacci-number.py)
