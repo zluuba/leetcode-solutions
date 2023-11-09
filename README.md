@@ -288,6 +288,7 @@
 + [1679. Max Number of K-Sum Pairs](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1679%5D-max-number-of-k-sum-pairs.py)
 + [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1689%5D-partitioning-into-minimum-number-of-deci-binary-numbers.py)
 + [1721. Swapping Nodes in a Linked List](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1721%5D-swapping-nodes-in-a-linked-list.py)
++ [1759. Count Number of Homogenous Substrings](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1759%5D-count-number-of-homogenous-substrings.py)
 + [1828. Queries on Number of Points Inside a Circle](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1828%5D-queries-on-number-of-points-inside-a-circle.py)
 + [2024. Maximize the Confusion of an Exam](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2024%5D-maximize-the-confusion-of-an-exam.py)
 + [2090. K Radius Subarray Averages](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2090%5D-k-radius-subarray-averages.py)
