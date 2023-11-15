@@ -291,6 +291,7 @@
 + [1743. Restore the Array From Adjacent Pairs](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1743%5D-restore-the-array-from-adjacent-pairs.py)
 + [1759. Count Number of Homogenous Substrings](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1759%5D-count-number-of-homogenous-substrings.py)
 + [1828. Queries on Number of Points Inside a Circle](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1828%5D-queries-on-number-of-points-inside-a-circle.py)
++ [1846. Maximum Element After Decreasing and Rearranging](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1846%5D-maximum-element-after-decreasing-and-rearranging.py)
 + [1930. Unique Length-3 Palindromic Subsequences](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1930%5D-unique-length-3-palindromic-subsequences.py)
 + [2024. Maximize the Confusion of an Exam](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2024%5D-maximize-the-confusion-of-an-exam.py)
 + [2090. K Radius Subarray Averages](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2090%5D-k-radius-subarray-averages.py)
