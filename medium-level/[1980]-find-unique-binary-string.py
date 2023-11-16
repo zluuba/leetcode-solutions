@@ -19,7 +19,7 @@
 # Output: "101"
 # Explanation: "101" does not appear in nums. "000", "010", "100", and "110" would also be correct.
 
-# --------------- Runtime 61 ms, beats 84.66%. Memory 15.2MB, beats 41.36% ---------------
+# --------------- Runtime 47 ms, beats 31.34%. Memory 16.2MB, beats 66.27% ---------------
 from typing import List
 
 
