@@ -35,5 +35,5 @@ level = 2
 name = ""
 solution_url = get_solution_url(level, name)
 
-# copy solution_url to clipboard
+# copy solution_url to clipboard (MacOS)
 subprocess.run("pbcopy", text=True, input=solution_url)
