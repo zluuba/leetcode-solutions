@@ -308,6 +308,7 @@
 + [2336. Smallest Number in Infinite Set](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2336%5D-smallest-number-in-infinite-set.py)
 + [2352. Equal Row and Column Pairs](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2352%5D-equal-row-and-column-pairs.py)
 + [2390. Removing Stars From a String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2390%5D-removing-stars-from-a-string.py)
++ [2391. Minimum Amount of Time to Collect Garbage](https://github.com/zluuba/leetcode-solutions/blob/main/medium-level/%5B2391%5D-minimum-amount-of-time-to-collect-garbage.py)
 + [2396. Strictly Palindromic Number](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2396%5D-strictly-palindromic-number.py)
 + [2405. Optimal Partition of String](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2405%5D-optimal-partition-of-string.py)
 + [2433. Find The Original Array of Prefix Xor](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B2433%5D-find-the-original-array-of-prefix-xor.py)
