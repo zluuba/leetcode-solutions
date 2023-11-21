@@ -290,6 +290,7 @@
 + [1721. Swapping Nodes in a Linked List](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1721%5D-swapping-nodes-in-a-linked-list.py)
 + [1743. Restore the Array From Adjacent Pairs](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1743%5D-restore-the-array-from-adjacent-pairs.py)
 + [1759. Count Number of Homogenous Substrings](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1759%5D-count-number-of-homogenous-substrings.py)
++ [1814. Count Nice Pairs in an Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1814%5D-count-nice-pairs-in-an-array.py)
 + [1828. Queries on Number of Points Inside a Circle](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1828%5D-queries-on-number-of-points-inside-a-circle.py)
 + [1846. Maximum Element After Decreasing and Rearranging](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1846%5D-maximum-element-after-decreasing-and-rearranging.py)
 + [1877. Minimize Maximum Pair Sum in Array](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1877%5D-minimize-maximum-pair-sum-in-array.py)
