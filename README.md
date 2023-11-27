@@ -261,6 +261,7 @@
 + [881. Boats to Save People](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B881%5D-boats-to-save-people.py)
 + [904. Fruit Into Baskets](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B904%5D-fruit-into-baskets.py)
 + [934. Shortest Bridge](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B934%5D-shortest-bridge.py)
++ [935. Knight Dialer](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B935%5D-knight-dialer.py)
 + [946. Validate Stack Sequences](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B946%5D-validate-stack-sequences.py)
 + [994. Rotting Oranges](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B994%5D-rotting-oranges.py)
 + [1004. Max Consecutive Ones III](https://github.com/zluuba/leetcode/blob/main/medium-level/%5B1004%5D-max-consecutive-ones-iii.py)
